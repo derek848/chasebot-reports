@@ -1,0 +1,50 @@
+2026-08-16 00:11:53|aec-mlb-mia-cin-2026-08-15|exit_take_profit|0.455|0.0|0.703725|conviction TP: bid 0.405 >= 0.310 x 1.3 (patient exit)
+2026-08-15 23:58:48|aec-mlb-mia-cin-2026-08-15|ATTEMPT|0.31|145.0|0.0|fair=0.436
+2026-08-15 23:58:48|aec-mlb-mia-cin-2026-08-15|ENTER|0.31|6.0|0.0|fair=0.436 mult=3
+2026-08-09 00:18:49|aec-mlb-col-stl-2026-08-08|exit_thesis_break|0.325|0.0|-3.320022|fair 0.337 <= entry 0.385
+2026-08-09 00:17:51|aec-mlb-bal-tex-2026-08-08|exit_convergence|0.26|0.0|-1.580908|market converged to fair (patient exit)
+2026-08-09 00:17:28|aec-mlb-bal-tex-2026-08-08|ATTEMPT|0.265|56.0|0.0|fair=0.491
+2026-08-09 00:17:28|aec-mlb-bal-tex-2026-08-08|ENTER|0.265|56.0|0.0|fair=0.491
+2026-08-09 00:16:55|aec-mlb-col-stl-2026-08-08|ATTEMPT|0.385|38.0|0.0|fair=0.444
+2026-08-09 00:16:55|aec-mlb-col-stl-2026-08-08|ENTER|0.385|38.0|0.0|fair=0.444
+2026-08-09 00:15:20|aec-mlb-hou-sd-2026-08-08|exit_thesis_break|0.305|0.0|-1.676255|fair 0.312 <= entry 0.315
+2026-08-09 00:14:15|aec-mlb-hou-sd-2026-08-08|ATTEMPT|0.315|47.0|0.0|fair=0.470
+2026-08-09 00:14:15|aec-mlb-hou-sd-2026-08-08|ENTER|0.315|47.0|0.0|fair=0.470
+2026-08-09 00:10:33|aec-mlb-cin-wsh-2026-08-08|exit_thesis_break|0.17|0.0|-2.6335125|fair 0.185 <= entry 0.185
+2026-08-09 00:09:28|aec-mlb-cin-wsh-2026-08-08|ATTEMPT|0.185|81.0|0.0|fair=0.491
+2026-08-09 00:09:28|aec-mlb-cin-wsh-2026-08-08|ENTER|0.185|81.0|0.0|fair=0.491
+2026-08-09 00:07:32|aec-mlb-min-mil-2026-08-08|exit_convergence|0.345|0.0|-0.309165999999999|market converged to fair (patient exit)
+2026-08-09 00:06:34|aec-mlb-tor-phi-2026-08-08|exit_thesis_break|0.18|0.0|-8.085252|fair 0.236 <= entry 0.350
+2026-08-09 00:04:10|aec-mlb-col-stl-2026-08-08|exit_thesis_break|0.345|0.0|-3.787735|fair 0.352 <= entry 0.425
+2026-08-09 00:02:33|aec-mlb-min-mil-2026-08-08|ATTEMPT|0.325|46.0|0.0|fair=0.509
+2026-08-09 00:02:33|aec-mlb-min-mil-2026-08-08|ENTER|0.325|46.0|0.0|fair=0.509
+2026-08-09 00:02:23|aec-mlb-bal-tex-2026-08-08|exit_convergence|0.29|0.0|-0.503090999999999|market converged to fair (patient exit)
+2026-08-09 00:01:28|aec-mlb-col-stl-2026-08-08|ATTEMPT|0.425|35.0|0.0|fair=0.509
+2026-08-09 00:01:28|aec-mlb-col-stl-2026-08-08|ENTER|0.425|35.0|0.0|fair=0.509
+2026-08-08 23:59:56|aec-mlb-tor-phi-2026-08-08|ATTEMPT|0.35|42.0|0.0|fair=0.502
+2026-08-08 23:59:56|aec-mlb-tor-phi-2026-08-08|ENTER|0.35|42.0|0.0|fair=0.502
+2026-08-08 23:55:37|aec-mlb-cle-cws-2026-08-08|exit_take_profit|0.48|0.0|4.257708|bid 0.480 >= 0.350 x 1.3 (patient exit)
+2026-08-08 23:52:57|aec-mlb-cle-cws-2026-08-08|ATTEMPT|0.35|42.0|0.0|fair=0.442
+2026-08-08 23:52:57|aec-mlb-cle-cws-2026-08-08|ENTER|0.35|42.0|0.0|fair=0.442
+2026-08-08 23:51:52|aec-mlb-bal-tex-2026-08-08|ATTEMPT|0.275|54.0|0.0|fair=0.415
+2026-08-08 23:51:52|aec-mlb-bal-tex-2026-08-08|ENTER|0.275|54.0|0.0|fair=0.415
+2026-08-08 23:51:20|aec-mlb-col-stl-2026-08-08|exit_time_stop|0.295|0.0|-1.47384650000001|15 minutes without convergence (patient exit)
+2026-08-08 23:42:59|aec-mlb-min-mil-2026-08-08|exit_convergence|0.385|0.0|0.986788000000002|market converged to fair (patient exit)
+2026-08-08 23:39:42|aec-mlb-min-mil-2026-08-08|ATTEMPT|0.335|44.0|0.0|fair=0.409
+2026-08-08 23:39:42|aec-mlb-min-mil-2026-08-08|ENTER|0.335|44.0|0.0|fair=0.409
+2026-08-08 23:36:59|aec-mlb-det-sf-2026-08-08|exit_convergence|0.405|0.0|1.129443|market converged to fair (patient exit)
+2026-08-08 23:36:10|aec-mlb-col-stl-2026-08-08|ATTEMPT|0.3|49.0|0.0|fair=0.362
+2026-08-08 23:36:10|aec-mlb-col-stl-2026-08-08|ENTER|0.3|49.0|0.0|fair=0.362
+2026-08-08 23:34:55|aec-mlb-det-sf-2026-08-08|ATTEMPT|0.35|42.0|0.0|fair=0.463
+2026-08-08 23:34:55|aec-mlb-det-sf-2026-08-08|ENTER|0.35|42.0|0.0|fair=0.463
+2026-08-08 23:31:13|aec-mlb-hou-sd-2026-08-08|exit_convergence|0.325|0.0|-1.41428250000001|market converged to fair (patient exit)
+2026-08-08 23:30:57|aec-mlb-hou-sd-2026-08-08|ATTEMPT|0.33|45.0|0.0|fair=0.406
+2026-08-08 23:30:57|aec-mlb-hou-sd-2026-08-08|ENTER|0.33|45.0|0.0|fair=0.406
+2026-08-08 23:24:49|aec-mlb-min-mil-2026-08-08|exit_thesis_break|0.26|0.0|-4.26645|fair 0.291 <= entry 0.330
+2026-08-08 23:20:56|aec-mlb-min-mil-2026-08-08|ATTEMPT|0.33|45.0|0.0|fair=0.388
+2026-08-08 23:20:56|aec-mlb-min-mil-2026-08-08|ENTER|0.33|45.0|0.0|fair=0.388
+2026-08-08 22:54:48|aec-mlb-nym-pit-2026-08-08|exit_thesis_break|0.23|0.0|-2.727421|fair 0.205 <= entry 0.255
+2026-08-08 22:54:27|aec-mlb-nym-pit-2026-08-08|ATTEMPT|0.255|58.0|0.0|fair=0.333
+2026-08-08 22:54:27|aec-mlb-nym-pit-2026-08-08|ENTER|0.255|58.0|0.0|fair=0.333
+2026-08-08 22:08:57|aec-mlb-ath-bos-2026-08-08|exit_resolution_guard|0.79|0.0|2.236949|8th inning / fair beyond guard
+2026-08-08 22:00:04|aec-mlb-ath-bos-2026-08-08|ATTEMPT|0.665|22.0|0.0|fair=0.757
