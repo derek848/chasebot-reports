@@ -1,0 +1,6 @@
+=== ATTENTION BIAS — PAPER RECORD (no money at risk) ===
+evaluations: 0   cleared the attention gate: 0   would have entered: 0
+
+no graded decisions yet — nothing has both entered and finished
+
+constants in force: min deviation 4.0c, media/form bars 0.5/0.5, heat 0.6 (all TUNE LATER)

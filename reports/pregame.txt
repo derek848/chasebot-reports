@@ -1,0 +1,44 @@
+=== PREGAME CLV REPORT (hypothetical flat bets, $0 risked) ===
+active dials (nightly tuner, bounded): min edge 4.0c [2-8c], take-profit +24% [+12..+40%], stake 1.5% of balance [1-3%]
+games with started/complete pre-game history: 374
+  edge>=2c: n= 374  avg CLV +5.96c  POSITIVE — documented edge present
+  edge>=3c: n= 345  avg CLV +6.27c  POSITIVE — documented edge present
+  edge>=5c: n= 279  avg CLV +6.80c  POSITIVE — documented edge present
+
+REAL BETS placed: 94
+  realized CLV on started games: n=78 of 94 avg +10.01c — beating the close (edge real)
+  unmatched (no snapshot within 90min of that game's start): 16
+
+WEEKLY CONVICTION BETS: 2
+  2026-08-22  aec-mlb-ath-hou-2026-08-21       @0.085 x1176  fair 0.324  edge +23.9c  CLV +23.0c  LOST -99.96
+  2026-08-26  aec-mlb-cin-sf-2026-08-25        @0.225 x444  fair 0.488  edge +26.3c  CLV pending  LOST -99.90
+
+SETTLEMENT (statsapi finals; long side pays $1/share)
+  graded: 42 of 42 bets with a recorded long side
+  HELD to resolution: n=26 record 4-22 P&L $-500.75
+  TAKE-PROFIT EXITED: n=16 banked $+121.72 vs $+42.38 if held — the rule is AHEAD $+79.34 (n=16, not a verdict)
+  TOTAL realized: $-379.04
+    2026-08-24  aec-mlb-pit-sd-2026-08-24          WON   held             +27.02   (Pittsburgh Pirates 3 @ San Diego Padres 2)
+    2026-08-25  aec-mlb-bos-mia-2026-08-25         WON   TP  banked   +4.25  holding  +17.39   (Boston Red Sox 7 @ Miami Marlins 3)
+    2026-08-25  aec-mlb-phi-sea-2026-08-25         LOST  held             -19.80   (Philadelphia Phillies 1 @ Seattle Mariners 4)
+    2026-08-25  aec-mlb-lad-atl-2026-08-25         LOST  TP  banked   +5.40  holding  -19.98   (Los Angeles Dodgers 3 @ Atlanta Braves 4)
+    2026-08-25  aec-mlb-tex-cws-2026-08-25         LOST  held             -19.80   (Texas Rangers 7 @ Chicago White Sox 11)
+    2026-08-25  aec-mlb-tb-det-2026-08-25          LOST  held             -19.78   (Tampa Bay Rays 1 @ Detroit Tigers 4)
+    2026-08-25  aec-mlb-mil-nym-2026-08-25         LOST  TP  banked   +1.45  holding  -19.98   (Milwaukee Brewers 2 @ New York Mets 3)
+    2026-08-25  aec-mlb-chc-az-2026-08-25          LOST  held             -19.80   (Chicago Cubs 4 @ Arizona Diamondbacks 5)
+    2026-08-25  aec-mlb-cle-laa-2026-08-25         WON   TP  banked   +6.09  holding  +38.28   (Cleveland Guardians 8 @ Los Angeles Angels 6)
+    2026-08-25  aec-mlb-cin-sf-2026-08-25          LOST  held             -99.90   (Cincinnati Reds 1 @ San Francisco Giants 3)
+
+TAKE-PROFIT EXITS (+20% on entry): 17
+  locked in: $+136.83
+    2026-08-23 00:15  aec-mlb-cin-az-2026-08-22  0.365 -> 0.480  x54  +31.5%
+    2026-08-23 01:05  aec-mlb-cle-col-2026-08-22  0.570 -> 0.815  x35  +43.0%
+    2026-08-23 19:11  aec-mlb-tb-bal-2026-08-23  0.495 -> 0.655  x40  +32.3%
+    2026-08-23 21:16  aec-mlb-chc-sea-2026-08-23  0.380 -> 0.835  x52  +119.7%
+    2026-08-24 23:53  aec-mlb-tex-cws-2026-08-24  0.450 -> 0.555  x44  +23.3%
+    2026-08-25 02:18  aec-mlb-phi-sea-2026-08-24  0.130 -> 0.180  x153  +38.5%
+    2026-08-25 22:54  aec-mlb-bos-mia-2026-08-25  0.530 -> 0.645  x37  +21.7%
+    2026-08-25 23:49  aec-mlb-lad-atl-2026-08-25  0.370 -> 0.470  x54  +27.0%
+    2026-08-26 01:35  aec-mlb-mil-nym-2026-08-25  0.540 -> 0.830  x5  +53.7%
+    2026-08-26 02:05  aec-mlb-cle-laa-2026-08-25  0.340 -> 0.445  x58  +30.9%
+Verdict standard: avg CLV clearly positive at n>=100 -> the Kaunitz-style edge exists here.

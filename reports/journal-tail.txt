@@ -1,0 +1,150 @@
+Sep 05 22:46:56 ip-172-26-8-199 python[385710]: 22:46:56 INFO    chasebot.chase.live_runner | === LIVE Chase Doctrine v1.2 — real money, $15/bet, rails: -$30 day / -$100 kill / balance floor $500 (exchange-read). ATTENDED ONLY. Ctrl-C flattens. ===
+Sep 05 22:46:56 ip-172-26-8-199 python[385710]: 22:46:56 INFO    chasebot.chase.live_runner | dynamic floor: $1962.63 (deposit-proof $60 budget)
+Sep 05 22:46:56 ip-172-26-8-199 python[385710]: 22:46:56 WARNING chasebot.chase.runner | weak market match for San Francisco Giants @ New York Mets (best aec-mlb-nyy-sd-2026-09-05, score 3) — skipping
+Sep 05 22:46:56 ip-172-26-8-199 python[385710]: 22:46:56 INFO    chasebot.chase.runner | matched 1 live games to US markets
+Sep 05 22:46:56 ip-172-26-8-199 python[385710]: 22:46:56 INFO    chasebot.chase.runner |   Chicago Cubs @ Miami Marlins -> aec-mlb-chc-mia-2026-09-05 (long=away)
+Sep 05 22:46:56 ip-172-26-8-199 python[385710]: 22:46:56 INFO    chasebot.chase.runner | MLB feed mapped 1/1 games
+Sep 05 22:46:57 ip-172-26-8-199 python[385706]: 22:46:57 INFO    chasebot.pregame | snapshot: 0 markets recorded
+Sep 05 22:49:19 ip-172-26-8-199 python[385710]: 22:49:19 INFO    chasebot.chase.runner | *** SCORE EVENT: Chicago Cubs @ Miami Marlins — home +1 (inning 7) ***
+Sep 05 22:57:07 ip-172-26-8-199 python[385710]: 22:57:07 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 22:57:07 ip-172-26-8-199 python[385710]: 22:57:07 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 22:57:22 ip-172-26-8-199 python[385710]: 22:57:22 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 22:57:22 ip-172-26-8-199 python[385710]: 22:57:22 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 22:57:38 ip-172-26-8-199 python[385710]: 22:57:38 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 22:57:38 ip-172-26-8-199 python[385710]: 22:57:38 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 22:57:53 ip-172-26-8-199 python[385710]: 22:57:53 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 22:57:53 ip-172-26-8-199 python[385710]: 22:57:53 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 22:58:08 ip-172-26-8-199 python[385710]: 22:58:08 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 22:58:08 ip-172-26-8-199 python[385710]: 22:58:08 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 22:58:24 ip-172-26-8-199 python[385710]: 22:58:24 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 22:58:24 ip-172-26-8-199 python[385710]: 22:58:24 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 22:58:39 ip-172-26-8-199 python[385710]: 22:58:39 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 22:58:39 ip-172-26-8-199 python[385710]: 22:58:39 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 22:58:54 ip-172-26-8-199 python[385710]: 22:58:54 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 22:58:54 ip-172-26-8-199 python[385710]: 22:58:54 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 22:59:10 ip-172-26-8-199 python[385710]: 22:59:10 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 22:59:10 ip-172-26-8-199 python[385710]: 22:59:10 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 22:59:25 ip-172-26-8-199 python[385710]: 22:59:25 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 22:59:25 ip-172-26-8-199 python[385710]: 22:59:25 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 22:59:40 ip-172-26-8-199 python[385710]: 22:59:40 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 22:59:41 ip-172-26-8-199 python[385710]: 22:59:41 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 22:59:56 ip-172-26-8-199 python[385710]: 22:59:56 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 22:59:56 ip-172-26-8-199 python[385710]: 22:59:56 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:00:11 ip-172-26-8-199 python[385710]: 23:00:11 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:00:11 ip-172-26-8-199 python[385710]: 23:00:11 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:00:27 ip-172-26-8-199 python[385710]: 23:00:27 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:00:27 ip-172-26-8-199 python[385710]: 23:00:27 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:00:43 ip-172-26-8-199 python[385710]: 23:00:43 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:00:43 ip-172-26-8-199 python[385710]: 23:00:43 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:00:58 ip-172-26-8-199 python[385710]: 23:00:58 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:00:58 ip-172-26-8-199 python[385710]: 23:00:58 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:01:13 ip-172-26-8-199 python[385710]: 23:01:13 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:01:14 ip-172-26-8-199 python[385710]: 23:01:14 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:01:29 ip-172-26-8-199 python[385710]: 23:01:29 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:01:29 ip-172-26-8-199 python[385710]: 23:01:29 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:01:45 ip-172-26-8-199 python[385710]: 23:01:45 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:01:45 ip-172-26-8-199 python[385710]: 23:01:45 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:01:57 ip-172-26-8-199 python[385706]: 23:01:57 INFO    chasebot.pregame | snapshot: 0 markets recorded
+Sep 05 23:02:00 ip-172-26-8-199 python[385710]: 23:02:00 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:02:00 ip-172-26-8-199 python[385710]: 23:02:00 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:02:15 ip-172-26-8-199 python[385710]: 23:02:15 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:02:15 ip-172-26-8-199 python[385710]: 23:02:15 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:02:30 ip-172-26-8-199 python[385710]: 23:02:30 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:02:30 ip-172-26-8-199 python[385710]: 23:02:30 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:02:46 ip-172-26-8-199 python[385710]: 23:02:46 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:02:46 ip-172-26-8-199 python[385710]: 23:02:46 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:03:01 ip-172-26-8-199 python[385710]: 23:03:01 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:03:01 ip-172-26-8-199 python[385710]: 23:03:01 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:03:17 ip-172-26-8-199 python[385710]: 23:03:17 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:03:17 ip-172-26-8-199 python[385710]: 23:03:17 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:03:32 ip-172-26-8-199 python[385710]: 23:03:32 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:03:32 ip-172-26-8-199 python[385710]: 23:03:32 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:03:47 ip-172-26-8-199 python[385710]: 23:03:47 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:03:47 ip-172-26-8-199 python[385710]: 23:03:47 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:04:03 ip-172-26-8-199 python[385710]: 23:04:03 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:04:03 ip-172-26-8-199 python[385710]: 23:04:03 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:04:18 ip-172-26-8-199 python[385710]: 23:04:18 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:04:18 ip-172-26-8-199 python[385710]: 23:04:18 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:04:34 ip-172-26-8-199 python[385710]: 23:04:34 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:04:34 ip-172-26-8-199 python[385710]: 23:04:34 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:04:49 ip-172-26-8-199 python[385710]: 23:04:49 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:04:49 ip-172-26-8-199 python[385710]: 23:04:49 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:05:04 ip-172-26-8-199 python[385710]: 23:05:04 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:05:04 ip-172-26-8-199 python[385710]: 23:05:04 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:05:20 ip-172-26-8-199 python[385710]: 23:05:20 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:05:20 ip-172-26-8-199 python[385710]: 23:05:20 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:05:35 ip-172-26-8-199 python[385710]: 23:05:35 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:05:35 ip-172-26-8-199 python[385710]: 23:05:35 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:05:50 ip-172-26-8-199 python[385710]: 23:05:50 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:05:50 ip-172-26-8-199 python[385710]: 23:05:50 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:06:06 ip-172-26-8-199 python[385710]: 23:06:06 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:06:06 ip-172-26-8-199 python[385710]: 23:06:06 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:06:21 ip-172-26-8-199 python[385710]: 23:06:21 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:06:21 ip-172-26-8-199 python[385710]: 23:06:21 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:06:36 ip-172-26-8-199 python[385710]: 23:06:36 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:06:36 ip-172-26-8-199 python[385710]: 23:06:36 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:06:52 ip-172-26-8-199 python[385710]: 23:06:52 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:06:52 ip-172-26-8-199 python[385710]: 23:06:52 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:07:07 ip-172-26-8-199 python[385710]: 23:07:07 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:07:07 ip-172-26-8-199 python[385710]: 23:07:07 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:07:22 ip-172-26-8-199 python[385710]: 23:07:22 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:07:22 ip-172-26-8-199 python[385710]: 23:07:22 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:07:38 ip-172-26-8-199 python[385710]: 23:07:38 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:07:38 ip-172-26-8-199 python[385710]: 23:07:38 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:07:53 ip-172-26-8-199 python[385710]: 23:07:53 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:07:53 ip-172-26-8-199 python[385710]: 23:07:53 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:08:08 ip-172-26-8-199 python[385710]: 23:08:08 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:08:08 ip-172-26-8-199 python[385710]: 23:08:08 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:08:24 ip-172-26-8-199 python[385710]: 23:08:24 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:08:24 ip-172-26-8-199 python[385710]: 23:08:24 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:08:39 ip-172-26-8-199 python[385710]: 23:08:39 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:08:39 ip-172-26-8-199 python[385710]: 23:08:39 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:08:54 ip-172-26-8-199 python[385710]: 23:08:54 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:08:54 ip-172-26-8-199 python[385710]: 23:08:54 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:09:10 ip-172-26-8-199 python[385710]: 23:09:10 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:09:10 ip-172-26-8-199 python[385710]: 23:09:10 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:09:25 ip-172-26-8-199 python[385710]: 23:09:25 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:09:25 ip-172-26-8-199 python[385710]: 23:09:25 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:09:40 ip-172-26-8-199 python[385710]: 23:09:40 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:09:40 ip-172-26-8-199 python[385710]: 23:09:40 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:09:56 ip-172-26-8-199 python[385710]: 23:09:56 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:09:56 ip-172-26-8-199 python[385710]: 23:09:56 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:10:11 ip-172-26-8-199 python[385710]: 23:10:11 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:10:11 ip-172-26-8-199 python[385710]: 23:10:11 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:10:27 ip-172-26-8-199 python[385710]: 23:10:27 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:10:27 ip-172-26-8-199 python[385710]: 23:10:27 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:10:42 ip-172-26-8-199 python[385710]: 23:10:42 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:10:42 ip-172-26-8-199 python[385710]: 23:10:42 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:10:57 ip-172-26-8-199 python[385710]: 23:10:57 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:10:57 ip-172-26-8-199 python[385710]: 23:10:57 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:11:13 ip-172-26-8-199 python[385710]: 23:11:13 INFO    chasebot.chase.runner | matched 0 live games to US markets
+Sep 05 23:11:13 ip-172-26-8-199 python[385710]: 23:11:13 INFO    chasebot.chase.runner | MLB feed mapped 1/0 games
+Sep 05 23:11:28 ip-172-26-8-199 python[385710]: 23:11:28 INFO    chasebot.chase.runner | matched 7 live games to US markets
+Sep 05 23:11:28 ip-172-26-8-199 python[385710]: 23:11:28 INFO    chasebot.chase.runner |   Chicago Cubs @ Miami Marlins -> aec-mlb-chc-mia-2026-09-05 (long=away)
+Sep 05 23:11:28 ip-172-26-8-199 python[385710]: 23:11:28 INFO    chasebot.chase.runner |   Atlanta Braves @ Philadelphia Phillies -> aec-mlb-atl-phi-2026-09-05 (long=away)
+Sep 05 23:11:28 ip-172-26-8-199 python[385710]: 23:11:28 INFO    chasebot.chase.runner |   Detroit Tigers @ Cleveland Guardians -> aec-mlb-det-cle-2026-09-05 (long=away)
+Sep 05 23:11:28 ip-172-26-8-199 python[385710]: 23:11:28 INFO    chasebot.chase.runner |   Milwaukee Brewers @ Cincinnati Reds -> aec-mlb-mil-cin-2026-09-05 (long=away)
+Sep 05 23:11:28 ip-172-26-8-199 python[385710]: 23:11:28 INFO    chasebot.chase.runner |   Los Angeles Angels @ Pittsburgh Pirates -> aec-mlb-laa-pit-2026-09-05 (long=away)
+Sep 05 23:11:28 ip-172-26-8-199 python[385710]: 23:11:28 INFO    chasebot.chase.runner |   Boston Red Sox @ Baltimore Orioles -> aec-mlb-bos-bal-2026-09-05 (long=away)
+Sep 05 23:11:28 ip-172-26-8-199 python[385710]: 23:11:28 INFO    chasebot.chase.runner |   Tampa Bay Rays @ Texas Rangers -> aec-mlb-tb-tex-2026-09-05 (long=away)
+Sep 05 23:11:28 ip-172-26-8-199 python[385710]: 23:11:28 INFO    chasebot.chase.runner | MLB feed mapped 7/7 games
+Sep 05 23:11:59 ip-172-26-8-199 python[385710]: 23:11:59 INFO    chasebot.chase.runner | *** SCORE EVENT: Tampa Bay Rays @ Texas Rangers — away +1 (inning 1) ***
+Sep 05 23:12:05 ip-172-26-8-199 python[385710]: 23:12:05 INFO    chasebot.chase.runner | *** SCORE EVENT: Atlanta Braves @ Philadelphia Phillies — home +1 (inning 4) ***
+Sep 05 23:16:58 ip-172-26-8-199 python[385706]: 23:16:58 INFO    chasebot.pregame | snapshot: 0 markets recorded
+Sep 05 23:18:00 ip-172-26-8-199 python[385710]: 23:18:00 INFO    chasebot.chase.runner | *** SCORE EVENT: Milwaukee Brewers @ Cincinnati Reds — away +1 (inning 3) ***
+Sep 05 23:21:38 ip-172-26-8-199 python[385710]: 23:21:38 INFO    chasebot.chase.runner | matched 11 live games to US markets
+Sep 05 23:21:38 ip-172-26-8-199 python[385710]: 23:21:38 INFO    chasebot.chase.runner |   Chicago Cubs @ Miami Marlins -> aec-mlb-chc-mia-2026-09-05 (long=away)
+Sep 05 23:21:38 ip-172-26-8-199 python[385710]: 23:21:38 INFO    chasebot.chase.runner |   Atlanta Braves @ Philadelphia Phillies -> aec-mlb-atl-phi-2026-09-05 (long=away)
+Sep 05 23:21:38 ip-172-26-8-199 python[385710]: 23:21:38 INFO    chasebot.chase.runner |   Detroit Tigers @ Cleveland Guardians -> aec-mlb-det-cle-2026-09-05 (long=away)
+Sep 05 23:21:38 ip-172-26-8-199 python[385710]: 23:21:38 INFO    chasebot.chase.runner |   Milwaukee Brewers @ Cincinnati Reds -> aec-mlb-mil-cin-2026-09-05 (long=away)
+Sep 05 23:21:38 ip-172-26-8-199 python[385710]: 23:21:38 INFO    chasebot.chase.runner |   Los Angeles Angels @ Pittsburgh Pirates -> aec-mlb-laa-pit-2026-09-05 (long=away)
+Sep 05 23:21:38 ip-172-26-8-199 python[385710]: 23:21:38 INFO    chasebot.chase.runner |   Boston Red Sox @ Baltimore Orioles -> aec-mlb-bos-bal-2026-09-05 (long=away)
+Sep 05 23:21:38 ip-172-26-8-199 python[385710]: 23:21:38 INFO    chasebot.chase.runner |   Tampa Bay Rays @ Texas Rangers -> aec-mlb-tb-tex-2026-09-05 (long=away)
+Sep 05 23:21:38 ip-172-26-8-199 python[385710]: 23:21:38 INFO    chasebot.chase.runner |   Minnesota Twins @ Chicago White Sox -> aec-mlb-min-cws-2026-09-05 (long=away)
+Sep 05 23:21:38 ip-172-26-8-199 python[385710]: 23:21:38 INFO    chasebot.chase.runner |   Toronto Blue Jays @ Kansas City Royals -> aec-mlb-tor-kc-2026-09-05 (long=away)
+Sep 05 23:21:38 ip-172-26-8-199 python[385710]: 23:21:38 INFO    chasebot.chase.runner |   Arizona Diamondbacks @ Houston Astros -> aec-mlb-az-hou-2026-09-05 (long=away)
+Sep 05 23:21:38 ip-172-26-8-199 python[385710]: 23:21:38 INFO    chasebot.chase.runner |   New York Yankees @ San Diego Padres -> aec-mlb-nyy-sd-2026-09-05 (long=away)
+Sep 05 23:21:38 ip-172-26-8-199 python[385710]: 23:21:38 INFO    chasebot.chase.runner | MLB feed mapped 11/11 games
+Sep 05 23:22:15 ip-172-26-8-199 python[385710]: 23:22:15 INFO    chasebot.chase.runner | *** SCORE EVENT: Detroit Tigers @ Cleveland Guardians — away +1 (inning 6) ***
+Sep 05 23:23:34 ip-172-26-8-199 python[385710]: 23:23:34 INFO    chasebot.chase.runner | *** SCORE EVENT: Minnesota Twins @ Chicago White Sox — home +2 (inning 1) ***
+Sep 05 23:26:28 ip-172-26-8-199 python[385710]: 23:26:28 INFO    chasebot.chase.runner | *** SCORE EVENT: Minnesota Twins @ Chicago White Sox — home +1 (inning 1) ***

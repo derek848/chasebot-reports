@@ -1,0 +1,23 @@
+attention_bias field-path verification — no orders, no exchange calls
+
+statsapi /schedule + hydrate=broadcasts(all)  [national_broadcast]
+  PASS  fetch  — https://statsapi.mlb.com/api/v1/schedule?sportId=1&date=2026-09-05&hydrate=broadcasts(all)
+  PASS  gamePk + team names  — 15 games today
+  PASS  broadcasts hydration  — 15/15 games carry broadcasts
+  PASS  national detection  — 2/15 games flagged national
+
+statsapi /schedule by team  [recent form / streaks]
+  PASS  get_recent_games  — 10 finals for team 147 in 30 days
+
+ESPN news  [media narrative]
+  FAIL  fetch
+          HTTPError: HTTP Error 403: Forbidden
+
+Wikipedia pageviews  [social_percentile]
+  PASS  fetch + parse  — Yankees 1,226,276 views over 12 months
+  PASS  league percentiles  — 30/30 clubs (cache 1h old); top: Toronto Blue Jays, bottom: Athletics
+
+odds API: skipped (ODDS_API_KEY not set)
+
+7 passed, 1 failed
+Field paths above marked FAIL are wrong or the API changed. Nothing should be armed until they read PASS.
