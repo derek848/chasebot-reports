@@ -1,0 +1,21 @@
+=== EXCHANGE INVENTORY — active markets by sport (observation only) ===
+  60 markets across 8 sports
+    cfb        16 markets  [NOT TRADED]
+             e.g. aec-cfb-ala-uk-2026-09-12, aec-cfb-ohiost-tx-2026-09-12, aec-cfb-mspst-minnst-2026-09-12
+    nfl        15 markets  [NOT TRADED]
+             e.g. aec-nfl-dal-nyg-2026-09-13, aec-nfl-chi-car-2026-09-13, aec-nfl-buf-hou-2026-09-13
+    mlb        11 markets  [traded]
+             e.g. aec-mlb-lad-mia-2026-09-12, aec-mlb-sd-sf-2026-09-12, aec-mlb-bal-tor-2026-09-12
+    ufc         8 markets  [NOT TRADED]
+             e.g. aec-ufc-tommcm-marrah-2026-09-12, aec-ufc-manfio-alegra-2026-09-12, aec-ufc-jeasil-josedelg-2026-09-12
+    wta         4 markets  [NOT TRADED]
+             e.g. aec-wta-arysab-eleryb-2026-09-12, aec-wta-jusmik-antver-2026-09-12, aec-wta-iryshy-anasan-2026-09-12
+    boxing      3 markets  [NOT TRADED]
+             e.g. aec-boxing-canalv-chrmbi-2026-10-31-canalv-chrmbi, aec-boxing-ryangar-conoben-2026-09-12, aec-boxing-jaiopet-noelmik-2026-09-13
+    atp         2 markets  [NOT TRADED]
+             e.g. aec-atp-thiwil-matdod-2026-09-12, aec-atp-alezve-benshe-2026-09-13
+    itfme       1 markets  [NOT TRADED]
+             e.g. aec-itfme-matalv-raftos-2026-09-12
+  no volume field found on these markets — liquidity is NOT reported here, not zero.
+  fields present: active, archived, bestAskQuote, bestBidQuote, category, closed, color, comboEnabled, createdAt, darkColor, description, endDate, ep3Status, ep3SyncedAt, feeCoefficient, gameStartTime, hidden, id, image, imageDisplayType, line, manualActivation, marketSides, marketType, metadata, minimumTradeQty, orderPriceMinTickSize, outcomePrices, outcomes, question, slug, sortOrder, sportsMarketType, sportsMarketTypeV2, spreadTotalSuffix, startDate, status, subject, subjectId, subtitle, tags, title, titleShort, updatedAt
+  listed but no strategy reads them: cfb, nfl, ufc, wta, boxing, atp, itfme

@@ -1,0 +1,31 @@
+active
+● chasebot-v2.service - Chasebot v2 Attention Bias live runner (REAL MONEY, $250 budget)
+     Loaded: loaded (/etc/systemd/system/chasebot-v2.service; enabled; preset: enabled)
+     Active: active (running) since Sat 2026-09-12 06:43:14 UTC; 15h ago
+   Main PID: 485224 (python)
+      Tasks: 1 (limit: 1741)
+     Memory: 47.0M (peak: 60.0M)
+        CPU: 9.266s
+     CGroup: /system.slice/chasebot-v2.service
+             └─485224 /opt/chasebot/venv/bin/python -m chasebot.attention_bias.trade --loop --interval 900
+
+Sep 12 22:00:40 ip-172-26-8-199 python[485224]: 22:00:40 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-cin-mil-2026-09-12/book "HTTP/1.1 200 OK"
+Sep 12 22:00:40 ip-172-26-8-199 python[485224]: 22:00:40 INFO    __main__ | [AB] broadcast aec-mlb-cin-mil-2026-09-12 2026-09-12 | Milwaukee Brewers vs Cincinnati Reds -> not-national (1 national on date)
+Sep 12 22:00:40 ip-172-26-8-199 python[485224]: 22:00:40 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-phi-atl-2026-09-12/book "HTTP/1.1 429 Too Many Requests"
+Sep 12 22:00:40 ip-172-26-8-199 python[485224]: 22:00:40 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-cws-stl-2026-09-12/book "HTTP/1.1 429 Too Many Requests"
+Sep 12 22:00:40 ip-172-26-8-199 python[485224]: 22:00:40 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-tex-az-2026-09-12/book "HTTP/1.1 429 Too Many Requests"
+Sep 12 22:00:40 ip-172-26-8-199 python[485224]: 22:00:40 INFO    __main__ | [AB] cycle: 1 markets, 0 entered, 0 exited
+Sep 12 22:15:40 ip-172-26-8-199 python[485224]: 22:15:40 INFO    httpx | HTTP Request: GET https://api.polymarket.us/v1/account/balances "HTTP/1.1 200 OK"
+Sep 12 22:15:40 ip-172-26-8-199 python[485224]: 22:15:40 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 12 22:15:40 ip-172-26-8-199 python[485224]: 22:15:40 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.39 -> floor $7646.79
+Sep 12 22:15:41 ip-172-26-8-199 python[485224]: 22:15:41 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets?active=true&closed=false&limit=300&orderBy=volume&orderDirection=desc "HTTP/1.1 200 OK"
+Sep 12 22:15:41 ip-172-26-8-199 python[485224]: 22:15:41 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-cin-mil-2026-09-12/book "HTTP/1.1 200 OK"
+Sep 12 22:15:41 ip-172-26-8-199 python[485224]: 22:15:41 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-phi-atl-2026-09-12/book "HTTP/1.1 200 OK"
+Sep 12 22:15:41 ip-172-26-8-199 python[485224]: 22:15:41 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-cws-stl-2026-09-12/book "HTTP/1.1 200 OK"
+Sep 12 22:15:41 ip-172-26-8-199 python[485224]: 22:15:41 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-tex-az-2026-09-12/book "HTTP/1.1 200 OK"
+Sep 12 22:15:41 ip-172-26-8-199 python[485224]: 22:15:41 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-cin-mil-2026-09-12/book "HTTP/1.1 200 OK"
+Sep 12 22:15:41 ip-172-26-8-199 python[485224]: 22:15:41 INFO    __main__ | [AB] broadcast aec-mlb-cin-mil-2026-09-12 2026-09-12 | Milwaukee Brewers vs Cincinnati Reds -> not-national (1 national on date)
+Sep 12 22:15:41 ip-172-26-8-199 python[485224]: 22:15:41 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-phi-atl-2026-09-12/book "HTTP/1.1 429 Too Many Requests"
+Sep 12 22:15:41 ip-172-26-8-199 python[485224]: 22:15:41 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-cws-stl-2026-09-12/book "HTTP/1.1 429 Too Many Requests"
+Sep 12 22:15:41 ip-172-26-8-199 python[485224]: 22:15:41 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-tex-az-2026-09-12/book "HTTP/1.1 429 Too Many Requests"
+Sep 12 22:15:41 ip-172-26-8-199 python[485224]: 22:15:41 INFO    __main__ | [AB] cycle: 1 markets, 0 entered, 0 exited

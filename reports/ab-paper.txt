@@ -1,0 +1,20 @@
+=== ATTENTION BIAS — PAPER RECORD (no money at risk) ===
+evaluations: 616   cleared the attention gate: 24   would have entered: 0
+    declined:   562  did not clear form/attention gate (media disabled)
+    declined:    43  did not clear media/form/attention gate
+    declined:    11  deviation below minimum threshold
+  gates passed individually (of 616): national 24, media 9 (DISABLED, not gating), form>=0.2 248, deviation>=4.0c 39
+  best seen: media 0.200, form 0.787, deviation 63.2c — a bar above the best ever seen can never be cleared
+  MEDIA DISABLED (owner instruction 2026-09-06): combined = form alone, the national-broadcast and form gates still apply, and stakes are held at the base size. Media is still recorded above so the source can be judged when it is fixed.
+  last 6h (of 52): national 2, media 0, form 26, deviation 0
+  most recent evaluations:
+    09-12 22:21  aec-mlb-cin-mil-2026-09-12   nat 0  media +0.000  form -0.417  dev -0.5c
+    09-12 21:20  aec-mlb-cin-mil-2026-09-12   nat 0  media +0.000  form -0.417  dev -0.2c
+    09-12 20:18  aec-mlb-phi-atl-2026-09-12   nat 0  media +0.000  form -0.280  dev -0.1c
+    09-12 20:18  aec-mlb-cws-stl-2026-09-12   nat 0  media +0.000  form -0.247  dev -0.1c
+    09-12 20:18  aec-mlb-tex-az-2026-09-12    nat 0  media +0.000  form -0.267  dev -0.1c
+    09-12 19:48  aec-mlb-sd-sf-2026-09-12     nat 0  media +0.000  form +0.267  dev -0.3c
+
+no graded decisions yet — nothing has both entered and finished
+
+constants in force: min deviation 4.0c, media/form bars 0.2/0.2, heat 0.2 (all TUNE LATER)

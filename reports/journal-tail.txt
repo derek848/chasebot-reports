@@ -1,0 +1,150 @@
+Sep 12 17:14:57 ip-172-26-8-199 python[485224]: 17:14:57 INFO    __main__ | [AB] broadcast aec-mlb-lad-mia-2026-09-12 2026-09-12 | Miami Marlins vs Los Angeles Dodgers -> not-national (1 national on date)
+Sep 12 17:14:57 ip-172-26-8-199 python[485224]: 17:14:57 INFO    __main__ | [AB] broadcast aec-mlb-phi-atl-2026-09-12 2026-09-12 | Atlanta Braves vs Philadelphia Phillies -> not-national (1 national on date)
+Sep 12 17:14:57 ip-172-26-8-199 python[485224]: 17:14:57 INFO    __main__ | [AB] cycle: 8 markets, 0 entered, 0 exited
+Sep 12 17:29:57 ip-172-26-8-199 python[485224]: 17:29:57 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 12 17:29:57 ip-172-26-8-199 python[485224]: 17:29:57 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.39 -> floor $7646.79
+Sep 12 17:29:59 ip-172-26-8-199 python[485224]: 17:29:59 INFO    __main__ | [AB] broadcast aec-mlb-nym-nyy-2026-09-12 2026-09-12 | New York Yankees vs New York Mets -> national (1 national on date)
+Sep 12 17:29:59 ip-172-26-8-199 python[485224]: 17:29:59 INFO    __main__ | [AB] broadcast aec-mlb-pit-chc-2026-09-12 2026-09-12 | Chicago Cubs vs Pittsburgh Pirates -> not-national (1 national on date)
+Sep 12 17:29:59 ip-172-26-8-199 python[485224]: 17:29:59 INFO    __main__ | [AB] broadcast aec-mlb-bal-tor-2026-09-12 2026-09-12 | Toronto Blue Jays vs Baltimore Orioles -> not-national (1 national on date)
+Sep 12 17:29:59 ip-172-26-8-199 python[485224]: 17:29:59 INFO    __main__ | [AB] broadcast aec-mlb-sd-sf-2026-09-12 2026-09-12 | San Francisco Giants vs San Diego Padres -> not-national (1 national on date)
+Sep 12 17:29:59 ip-172-26-8-199 python[485224]: 17:29:59 INFO    __main__ | [AB] broadcast aec-mlb-kc-bos-2026-09-12 2026-09-12 | Boston Red Sox vs Kansas City Royals -> not-national (1 national on date)
+Sep 12 17:29:59 ip-172-26-8-199 python[485224]: 17:29:59 INFO    __main__ | [AB] broadcast aec-mlb-cle-min-2026-09-12 2026-09-12 | Minnesota Twins vs Cleveland Guardians -> not-national (1 national on date)
+Sep 12 17:29:59 ip-172-26-8-199 python[485224]: 17:29:59 INFO    __main__ | [AB] broadcast aec-mlb-lad-mia-2026-09-12 2026-09-12 | Miami Marlins vs Los Angeles Dodgers -> not-national (1 national on date)
+Sep 12 17:30:00 ip-172-26-8-199 python[485224]: 17:30:00 INFO    __main__ | [AB] broadcast aec-mlb-phi-atl-2026-09-12 2026-09-12 | Atlanta Braves vs Philadelphia Phillies -> not-national (1 national on date)
+Sep 12 17:30:00 ip-172-26-8-199 python[485224]: 17:30:00 INFO    __main__ | [AB] cycle: 8 markets, 0 entered, 0 exited
+Sep 12 17:45:00 ip-172-26-8-199 python[485224]: 17:45:00 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 12 17:45:00 ip-172-26-8-199 python[485224]: 17:45:00 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.39 -> floor $7646.79
+Sep 12 17:45:02 ip-172-26-8-199 python[485224]: 17:45:02 INFO    __main__ | [AB] broadcast aec-mlb-pit-chc-2026-09-12 2026-09-12 | Chicago Cubs vs Pittsburgh Pirates -> not-national (1 national on date)
+Sep 12 17:45:02 ip-172-26-8-199 python[485224]: 17:45:02 INFO    __main__ | [AB] broadcast aec-mlb-bal-tor-2026-09-12 2026-09-12 | Toronto Blue Jays vs Baltimore Orioles -> not-national (1 national on date)
+Sep 12 17:45:02 ip-172-26-8-199 python[485224]: 17:45:02 INFO    __main__ | [AB] broadcast aec-mlb-sd-sf-2026-09-12 2026-09-12 | San Francisco Giants vs San Diego Padres -> not-national (1 national on date)
+Sep 12 17:45:02 ip-172-26-8-199 python[485224]: 17:45:02 INFO    __main__ | [AB] broadcast aec-mlb-kc-bos-2026-09-12 2026-09-12 | Boston Red Sox vs Kansas City Royals -> not-national (1 national on date)
+Sep 12 17:45:02 ip-172-26-8-199 python[485224]: 17:45:02 INFO    __main__ | [AB] broadcast aec-mlb-cle-min-2026-09-12 2026-09-12 | Minnesota Twins vs Cleveland Guardians -> not-national (1 national on date)
+Sep 12 17:45:02 ip-172-26-8-199 python[485224]: 17:45:02 INFO    __main__ | [AB] broadcast aec-mlb-lad-mia-2026-09-12 2026-09-12 | Miami Marlins vs Los Angeles Dodgers -> not-national (1 national on date)
+Sep 12 17:45:03 ip-172-26-8-199 python[485224]: 17:45:03 INFO    __main__ | [AB] broadcast aec-mlb-phi-atl-2026-09-12 2026-09-12 | Atlanta Braves vs Philadelphia Phillies -> not-national (1 national on date)
+Sep 12 17:45:03 ip-172-26-8-199 python[485224]: 17:45:03 INFO    __main__ | [AB] cycle: 7 markets, 0 entered, 0 exited
+Sep 12 18:00:03 ip-172-26-8-199 python[485224]: 18:00:03 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 12 18:00:03 ip-172-26-8-199 python[485224]: 18:00:03 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.39 -> floor $7646.79
+Sep 12 18:00:05 ip-172-26-8-199 python[485224]: 18:00:05 INFO    __main__ | [AB] broadcast aec-mlb-pit-chc-2026-09-12 2026-09-12 | Chicago Cubs vs Pittsburgh Pirates -> not-national (1 national on date)
+Sep 12 18:00:05 ip-172-26-8-199 python[485224]: 18:00:05 INFO    __main__ | [AB] broadcast aec-mlb-bal-tor-2026-09-12 2026-09-12 | Toronto Blue Jays vs Baltimore Orioles -> not-national (1 national on date)
+Sep 12 18:00:05 ip-172-26-8-199 python[485224]: 18:00:05 INFO    __main__ | [AB] broadcast aec-mlb-sd-sf-2026-09-12 2026-09-12 | San Francisco Giants vs San Diego Padres -> not-national (1 national on date)
+Sep 12 18:00:05 ip-172-26-8-199 python[485224]: 18:00:05 INFO    __main__ | [AB] broadcast aec-mlb-kc-bos-2026-09-12 2026-09-12 | Boston Red Sox vs Kansas City Royals -> not-national (1 national on date)
+Sep 12 18:00:05 ip-172-26-8-199 python[485224]: 18:00:05 INFO    __main__ | [AB] broadcast aec-mlb-cle-min-2026-09-12 2026-09-12 | Minnesota Twins vs Cleveland Guardians -> not-national (1 national on date)
+Sep 12 18:00:06 ip-172-26-8-199 python[485224]: 18:00:06 INFO    __main__ | [AB] broadcast aec-mlb-lad-mia-2026-09-12 2026-09-12 | Miami Marlins vs Los Angeles Dodgers -> not-national (1 national on date)
+Sep 12 18:00:06 ip-172-26-8-199 python[485224]: 18:00:06 INFO    __main__ | [AB] broadcast aec-mlb-phi-atl-2026-09-12 2026-09-12 | Atlanta Braves vs Philadelphia Phillies -> not-national (1 national on date)
+Sep 12 18:00:06 ip-172-26-8-199 python[485224]: 18:00:06 INFO    __main__ | [AB] cycle: 7 markets, 0 entered, 0 exited
+Sep 12 18:15:06 ip-172-26-8-199 python[485224]: 18:15:06 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 12 18:15:06 ip-172-26-8-199 python[485224]: 18:15:06 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.39 -> floor $7646.79
+Sep 12 18:15:07 ip-172-26-8-199 python[485224]: 18:15:07 INFO    __main__ | [AB] broadcast aec-mlb-pit-chc-2026-09-12 2026-09-12 | Chicago Cubs vs Pittsburgh Pirates -> not-national (1 national on date)
+Sep 12 18:15:08 ip-172-26-8-199 python[485224]: 18:15:08 INFO    __main__ | [AB] broadcast aec-mlb-bal-tor-2026-09-12 2026-09-12 | Toronto Blue Jays vs Baltimore Orioles -> not-national (1 national on date)
+Sep 12 18:15:08 ip-172-26-8-199 python[485224]: 18:15:08 INFO    __main__ | [AB] broadcast aec-mlb-sd-sf-2026-09-12 2026-09-12 | San Francisco Giants vs San Diego Padres -> not-national (1 national on date)
+Sep 12 18:15:08 ip-172-26-8-199 python[485224]: 18:15:08 INFO    __main__ | [AB] broadcast aec-mlb-kc-bos-2026-09-12 2026-09-12 | Boston Red Sox vs Kansas City Royals -> not-national (1 national on date)
+Sep 12 18:15:08 ip-172-26-8-199 python[485224]: 18:15:08 INFO    __main__ | [AB] broadcast aec-mlb-cle-min-2026-09-12 2026-09-12 | Minnesota Twins vs Cleveland Guardians -> not-national (1 national on date)
+Sep 12 18:15:08 ip-172-26-8-199 python[485224]: 18:15:08 INFO    __main__ | [AB] broadcast aec-mlb-lad-mia-2026-09-12 2026-09-12 | Miami Marlins vs Los Angeles Dodgers -> not-national (1 national on date)
+Sep 12 18:15:08 ip-172-26-8-199 python[485224]: 18:15:08 INFO    __main__ | [AB] broadcast aec-mlb-phi-atl-2026-09-12 2026-09-12 | Atlanta Braves vs Philadelphia Phillies -> not-national (1 national on date)
+Sep 12 18:15:08 ip-172-26-8-199 python[485224]: 18:15:08 INFO    __main__ | [AB] cycle: 7 markets, 0 entered, 0 exited
+Sep 12 18:30:08 ip-172-26-8-199 python[485224]: 18:30:08 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 12 18:30:08 ip-172-26-8-199 python[485224]: 18:30:08 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.39 -> floor $7646.79
+Sep 12 18:30:10 ip-172-26-8-199 python[485224]: 18:30:10 INFO    __main__ | [AB] broadcast aec-mlb-bal-tor-2026-09-12 2026-09-12 | Toronto Blue Jays vs Baltimore Orioles -> not-national (1 national on date)
+Sep 12 18:30:10 ip-172-26-8-199 python[485224]: 18:30:10 INFO    __main__ | [AB] broadcast aec-mlb-sd-sf-2026-09-12 2026-09-12 | San Francisco Giants vs San Diego Padres -> not-national (1 national on date)
+Sep 12 18:30:11 ip-172-26-8-199 python[485224]: 18:30:11 INFO    __main__ | [AB] broadcast aec-mlb-kc-bos-2026-09-12 2026-09-12 | Boston Red Sox vs Kansas City Royals -> not-national (1 national on date)
+Sep 12 18:30:11 ip-172-26-8-199 python[485224]: 18:30:11 INFO    __main__ | [AB] broadcast aec-mlb-cle-min-2026-09-12 2026-09-12 | Minnesota Twins vs Cleveland Guardians -> not-national (1 national on date)
+Sep 12 18:30:11 ip-172-26-8-199 python[485224]: 18:30:11 INFO    __main__ | [AB] broadcast aec-mlb-lad-mia-2026-09-12 2026-09-12 | Miami Marlins vs Los Angeles Dodgers -> not-national (1 national on date)
+Sep 12 18:30:11 ip-172-26-8-199 python[485224]: 18:30:11 INFO    __main__ | [AB] broadcast aec-mlb-phi-atl-2026-09-12 2026-09-12 | Atlanta Braves vs Philadelphia Phillies -> not-national (1 national on date)
+Sep 12 18:30:11 ip-172-26-8-199 python[485224]: 18:30:11 INFO    __main__ | [AB] cycle: 6 markets, 0 entered, 0 exited
+Sep 12 18:45:11 ip-172-26-8-199 python[485224]: 18:45:11 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 12 18:45:11 ip-172-26-8-199 python[485224]: 18:45:11 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.39 -> floor $7646.79
+Sep 12 18:45:13 ip-172-26-8-199 python[485224]: 18:45:13 INFO    __main__ | [AB] broadcast aec-mlb-bal-tor-2026-09-12 2026-09-12 | Toronto Blue Jays vs Baltimore Orioles -> not-national (1 national on date)
+Sep 12 18:45:13 ip-172-26-8-199 python[485224]: 18:45:13 INFO    __main__ | [AB] broadcast aec-mlb-sd-sf-2026-09-12 2026-09-12 | San Francisco Giants vs San Diego Padres -> not-national (1 national on date)
+Sep 12 18:45:13 ip-172-26-8-199 python[485224]: 18:45:13 INFO    __main__ | [AB] broadcast aec-mlb-kc-bos-2026-09-12 2026-09-12 | Boston Red Sox vs Kansas City Royals -> not-national (1 national on date)
+Sep 12 18:45:13 ip-172-26-8-199 python[485224]: 18:45:13 INFO    __main__ | [AB] broadcast aec-mlb-cle-min-2026-09-12 2026-09-12 | Minnesota Twins vs Cleveland Guardians -> not-national (1 national on date)
+Sep 12 18:45:13 ip-172-26-8-199 python[485224]: 18:45:13 INFO    __main__ | [AB] broadcast aec-mlb-lad-mia-2026-09-12 2026-09-12 | Miami Marlins vs Los Angeles Dodgers -> not-national (1 national on date)
+Sep 12 18:45:13 ip-172-26-8-199 python[485224]: 18:45:13 INFO    __main__ | [AB] broadcast aec-mlb-phi-atl-2026-09-12 2026-09-12 | Atlanta Braves vs Philadelphia Phillies -> not-national (1 national on date)
+Sep 12 18:45:13 ip-172-26-8-199 python[485224]: 18:45:13 INFO    __main__ | [AB] cycle: 6 markets, 0 entered, 0 exited
+Sep 12 19:00:13 ip-172-26-8-199 python[485224]: 19:00:13 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 12 19:00:13 ip-172-26-8-199 python[485224]: 19:00:13 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.39 -> floor $7646.79
+Sep 12 19:00:15 ip-172-26-8-199 python[485224]: 19:00:15 INFO    __main__ | [AB] broadcast aec-mlb-bal-tor-2026-09-12 2026-09-12 | Toronto Blue Jays vs Baltimore Orioles -> not-national (1 national on date)
+Sep 12 19:00:15 ip-172-26-8-199 python[485224]: 19:00:15 INFO    __main__ | [AB] broadcast aec-mlb-sd-sf-2026-09-12 2026-09-12 | San Francisco Giants vs San Diego Padres -> not-national (1 national on date)
+Sep 12 19:00:15 ip-172-26-8-199 python[485224]: 19:00:15 INFO    __main__ | [AB] broadcast aec-mlb-kc-bos-2026-09-12 2026-09-12 | Boston Red Sox vs Kansas City Royals -> not-national (1 national on date)
+Sep 12 19:00:15 ip-172-26-8-199 python[485224]: 19:00:15 INFO    __main__ | [AB] broadcast aec-mlb-cle-min-2026-09-12 2026-09-12 | Minnesota Twins vs Cleveland Guardians -> not-national (1 national on date)
+Sep 12 19:00:15 ip-172-26-8-199 python[485224]: 19:00:15 INFO    __main__ | [AB] broadcast aec-mlb-lad-mia-2026-09-12 2026-09-12 | Miami Marlins vs Los Angeles Dodgers -> not-national (1 national on date)
+Sep 12 19:00:16 ip-172-26-8-199 python[485224]: 19:00:16 INFO    __main__ | [AB] broadcast aec-mlb-phi-atl-2026-09-12 2026-09-12 | Atlanta Braves vs Philadelphia Phillies -> not-national (1 national on date)
+Sep 12 19:00:16 ip-172-26-8-199 python[485224]: 19:00:16 INFO    __main__ | [AB] broadcast aec-mlb-tex-az-2026-09-12 2026-09-12 | Arizona Diamondbacks vs Texas Rangers -> not-national (1 national on date)
+Sep 12 19:00:16 ip-172-26-8-199 python[485224]: 19:00:16 INFO    __main__ | [AB] cycle: 7 markets, 0 entered, 0 exited
+Sep 12 19:15:16 ip-172-26-8-199 python[485224]: 19:15:16 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 12 19:15:16 ip-172-26-8-199 python[485224]: 19:15:16 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.39 -> floor $7646.79
+Sep 12 19:15:17 ip-172-26-8-199 python[485224]: 19:15:17 INFO    __main__ | [AB] broadcast aec-mlb-sd-sf-2026-09-12 2026-09-12 | San Francisco Giants vs San Diego Padres -> not-national (1 national on date)
+Sep 12 19:15:17 ip-172-26-8-199 python[485224]: 19:15:17 INFO    __main__ | [AB] broadcast aec-mlb-kc-bos-2026-09-12 2026-09-12 | Boston Red Sox vs Kansas City Royals -> not-national (1 national on date)
+Sep 12 19:15:18 ip-172-26-8-199 python[485224]: 19:15:18 INFO    __main__ | [AB] broadcast aec-mlb-cle-min-2026-09-12 2026-09-12 | Minnesota Twins vs Cleveland Guardians -> not-national (1 national on date)
+Sep 12 19:15:18 ip-172-26-8-199 python[485224]: 19:15:18 INFO    __main__ | [AB] broadcast aec-mlb-lad-mia-2026-09-12 2026-09-12 | Miami Marlins vs Los Angeles Dodgers -> not-national (1 national on date)
+Sep 12 19:15:18 ip-172-26-8-199 python[485224]: 19:15:18 INFO    __main__ | [AB] broadcast aec-mlb-phi-atl-2026-09-12 2026-09-12 | Atlanta Braves vs Philadelphia Phillies -> not-national (1 national on date)
+Sep 12 19:15:18 ip-172-26-8-199 python[485224]: 19:15:18 INFO    __main__ | [AB] broadcast aec-mlb-tex-az-2026-09-12 2026-09-12 | Arizona Diamondbacks vs Texas Rangers -> not-national (1 national on date)
+Sep 12 19:15:18 ip-172-26-8-199 python[485224]: 19:15:18 INFO    __main__ | [AB] cycle: 6 markets, 0 entered, 0 exited
+Sep 12 19:30:18 ip-172-26-8-199 python[485224]: 19:30:18 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 12 19:30:18 ip-172-26-8-199 python[485224]: 19:30:18 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.39 -> floor $7646.79
+Sep 12 19:30:20 ip-172-26-8-199 python[485224]: 19:30:20 INFO    __main__ | [AB] broadcast aec-mlb-sd-sf-2026-09-12 2026-09-12 | San Francisco Giants vs San Diego Padres -> not-national (1 national on date)
+Sep 12 19:30:20 ip-172-26-8-199 python[485224]: 19:30:20 INFO    __main__ | [AB] broadcast aec-mlb-kc-bos-2026-09-12 2026-09-12 | Boston Red Sox vs Kansas City Royals -> not-national (1 national on date)
+Sep 12 19:30:20 ip-172-26-8-199 python[485224]: 19:30:20 INFO    __main__ | [AB] broadcast aec-mlb-cle-min-2026-09-12 2026-09-12 | Minnesota Twins vs Cleveland Guardians -> not-national (1 national on date)
+Sep 12 19:30:20 ip-172-26-8-199 python[485224]: 19:30:20 INFO    __main__ | [AB] broadcast aec-mlb-lad-mia-2026-09-12 2026-09-12 | Miami Marlins vs Los Angeles Dodgers -> not-national (1 national on date)
+Sep 12 19:30:21 ip-172-26-8-199 python[485224]: 19:30:21 INFO    __main__ | [AB] broadcast aec-mlb-phi-atl-2026-09-12 2026-09-12 | Atlanta Braves vs Philadelphia Phillies -> not-national (1 national on date)
+Sep 12 19:30:21 ip-172-26-8-199 python[485224]: 19:30:21 INFO    __main__ | [AB] broadcast aec-mlb-tex-az-2026-09-12 2026-09-12 | Arizona Diamondbacks vs Texas Rangers -> not-national (1 national on date)
+Sep 12 19:30:21 ip-172-26-8-199 python[485224]: 19:30:21 INFO    __main__ | [AB] cycle: 6 markets, 0 entered, 0 exited
+Sep 12 19:45:21 ip-172-26-8-199 python[485224]: 19:45:21 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 12 19:45:21 ip-172-26-8-199 python[485224]: 19:45:21 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.39 -> floor $7646.79
+Sep 12 19:45:23 ip-172-26-8-199 python[485224]: 19:45:23 INFO    __main__ | [AB] broadcast aec-mlb-sd-sf-2026-09-12 2026-09-12 | San Francisco Giants vs San Diego Padres -> not-national (1 national on date)
+Sep 12 19:45:23 ip-172-26-8-199 python[485224]: 19:45:23 INFO    __main__ | [AB] broadcast aec-mlb-kc-bos-2026-09-12 2026-09-12 | Boston Red Sox vs Kansas City Royals -> not-national (1 national on date)
+Sep 12 19:45:23 ip-172-26-8-199 python[485224]: 19:45:23 INFO    __main__ | [AB] broadcast aec-mlb-cle-min-2026-09-12 2026-09-12 | Minnesota Twins vs Cleveland Guardians -> not-national (1 national on date)
+Sep 12 19:45:23 ip-172-26-8-199 python[485224]: 19:45:23 INFO    __main__ | [AB] broadcast aec-mlb-lad-mia-2026-09-12 2026-09-12 | Miami Marlins vs Los Angeles Dodgers -> not-national (1 national on date)
+Sep 12 19:45:23 ip-172-26-8-199 python[485224]: 19:45:23 INFO    __main__ | [AB] broadcast aec-mlb-phi-atl-2026-09-12 2026-09-12 | Atlanta Braves vs Philadelphia Phillies -> not-national (1 national on date)
+Sep 12 19:45:23 ip-172-26-8-199 python[485224]: 19:45:23 INFO    __main__ | [AB] broadcast aec-mlb-tex-az-2026-09-12 2026-09-12 | Arizona Diamondbacks vs Texas Rangers -> not-national (1 national on date)
+Sep 12 19:45:23 ip-172-26-8-199 python[485224]: 19:45:23 INFO    __main__ | [AB] cycle: 6 markets, 0 entered, 0 exited
+Sep 12 20:00:23 ip-172-26-8-199 python[485224]: 20:00:23 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 12 20:00:23 ip-172-26-8-199 python[485224]: 20:00:23 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.39 -> floor $7646.79
+Sep 12 20:00:26 ip-172-26-8-199 python[485224]: 20:00:26 INFO    __main__ | [AB] broadcast aec-mlb-sd-sf-2026-09-12 2026-09-12 | San Francisco Giants vs San Diego Padres -> not-national (1 national on date)
+Sep 12 20:00:26 ip-172-26-8-199 python[485224]: 20:00:26 INFO    __main__ | [AB] broadcast aec-mlb-kc-bos-2026-09-12 2026-09-12 | Boston Red Sox vs Kansas City Royals -> not-national (1 national on date)
+Sep 12 20:00:26 ip-172-26-8-199 python[485224]: 20:00:26 INFO    __main__ | [AB] broadcast aec-mlb-cle-min-2026-09-12 2026-09-12 | Minnesota Twins vs Cleveland Guardians -> not-national (1 national on date)
+Sep 12 20:00:26 ip-172-26-8-199 python[485224]: 20:00:26 INFO    __main__ | [AB] broadcast aec-mlb-lad-mia-2026-09-12 2026-09-12 | Miami Marlins vs Los Angeles Dodgers -> not-national (1 national on date)
+Sep 12 20:00:26 ip-172-26-8-199 python[485224]: 20:00:26 INFO    __main__ | [AB] broadcast aec-mlb-phi-atl-2026-09-12 2026-09-12 | Atlanta Braves vs Philadelphia Phillies -> not-national (1 national on date)
+Sep 12 20:00:26 ip-172-26-8-199 python[485224]: 20:00:26 INFO    __main__ | [AB] broadcast aec-mlb-tex-az-2026-09-12 2026-09-12 | Arizona Diamondbacks vs Texas Rangers -> not-national (1 national on date)
+Sep 12 20:00:26 ip-172-26-8-199 python[485224]: 20:00:26 INFO    __main__ | [AB] cycle: 6 markets, 0 entered, 0 exited
+Sep 12 20:15:26 ip-172-26-8-199 python[485224]: 20:15:26 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 12 20:15:26 ip-172-26-8-199 python[485224]: 20:15:26 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.39 -> floor $7646.79
+Sep 12 20:15:28 ip-172-26-8-199 python[485224]: 20:15:28 INFO    __main__ | [AB] broadcast aec-mlb-phi-atl-2026-09-12 2026-09-12 | Atlanta Braves vs Philadelphia Phillies -> not-national (1 national on date)
+Sep 12 20:15:28 ip-172-26-8-199 python[485224]: 20:15:28 INFO    __main__ | [AB] broadcast aec-mlb-cws-stl-2026-09-12 2026-09-12 | St. Louis Cardinals vs Chicago White Sox -> not-national (1 national on date)
+Sep 12 20:15:28 ip-172-26-8-199 python[485224]: 20:15:28 INFO    __main__ | [AB] broadcast aec-mlb-tex-az-2026-09-12 2026-09-12 | Arizona Diamondbacks vs Texas Rangers -> not-national (1 national on date)
+Sep 12 20:15:28 ip-172-26-8-199 python[485224]: 20:15:28 INFO    __main__ | [AB] cycle: 3 markets, 0 entered, 0 exited
+Sep 12 20:30:28 ip-172-26-8-199 python[485224]: 20:30:28 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 12 20:30:28 ip-172-26-8-199 python[485224]: 20:30:28 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.39 -> floor $7646.79
+Sep 12 20:30:29 ip-172-26-8-199 python[485224]: 20:30:29 INFO    __main__ | [AB] broadcast aec-mlb-phi-atl-2026-09-12 2026-09-12 | Atlanta Braves vs Philadelphia Phillies -> not-national (1 national on date)
+Sep 12 20:30:30 ip-172-26-8-199 python[485224]: 20:30:30 INFO    __main__ | [AB] broadcast aec-mlb-cws-stl-2026-09-12 2026-09-12 | St. Louis Cardinals vs Chicago White Sox -> not-national (1 national on date)
+Sep 12 20:30:30 ip-172-26-8-199 python[485224]: 20:30:30 INFO    __main__ | [AB] broadcast aec-mlb-tex-az-2026-09-12 2026-09-12 | Arizona Diamondbacks vs Texas Rangers -> not-national (1 national on date)
+Sep 12 20:30:30 ip-172-26-8-199 python[485224]: 20:30:30 INFO    __main__ | [AB] cycle: 3 markets, 0 entered, 0 exited
+Sep 12 20:45:30 ip-172-26-8-199 python[485224]: 20:45:30 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 12 20:45:30 ip-172-26-8-199 python[485224]: 20:45:30 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.39 -> floor $7646.79
+Sep 12 20:45:31 ip-172-26-8-199 python[485224]: 20:45:31 INFO    __main__ | [AB] broadcast aec-mlb-phi-atl-2026-09-12 2026-09-12 | Atlanta Braves vs Philadelphia Phillies -> not-national (1 national on date)
+Sep 12 20:45:32 ip-172-26-8-199 python[485224]: 20:45:32 INFO    __main__ | [AB] broadcast aec-mlb-cws-stl-2026-09-12 2026-09-12 | St. Louis Cardinals vs Chicago White Sox -> not-national (1 national on date)
+Sep 12 20:45:32 ip-172-26-8-199 python[485224]: 20:45:32 INFO    __main__ | [AB] broadcast aec-mlb-tex-az-2026-09-12 2026-09-12 | Arizona Diamondbacks vs Texas Rangers -> not-national (1 national on date)
+Sep 12 20:45:32 ip-172-26-8-199 python[485224]: 20:45:32 INFO    __main__ | [AB] cycle: 3 markets, 0 entered, 0 exited
+Sep 12 21:00:32 ip-172-26-8-199 python[485224]: 21:00:32 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 12 21:00:32 ip-172-26-8-199 python[485224]: 21:00:32 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.39 -> floor $7646.79
+Sep 12 21:00:33 ip-172-26-8-199 python[485224]: 21:00:33 INFO    __main__ | [AB] broadcast aec-mlb-phi-atl-2026-09-12 2026-09-12 | Atlanta Braves vs Philadelphia Phillies -> not-national (1 national on date)
+Sep 12 21:00:33 ip-172-26-8-199 python[485224]: 21:00:33 INFO    __main__ | [AB] broadcast aec-mlb-cws-stl-2026-09-12 2026-09-12 | St. Louis Cardinals vs Chicago White Sox -> not-national (1 national on date)
+Sep 12 21:00:33 ip-172-26-8-199 python[485224]: 21:00:33 INFO    __main__ | [AB] cycle: 2 markets, 0 entered, 0 exited
+Sep 12 21:15:33 ip-172-26-8-199 python[485224]: 21:15:33 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 12 21:15:33 ip-172-26-8-199 python[485224]: 21:15:33 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.39 -> floor $7646.79
+Sep 12 21:15:35 ip-172-26-8-199 python[485224]: 21:15:35 INFO    __main__ | [AB] broadcast aec-mlb-cin-mil-2026-09-12 2026-09-12 | Milwaukee Brewers vs Cincinnati Reds -> not-national (1 national on date)
+Sep 12 21:15:35 ip-172-26-8-199 python[485224]: 21:15:35 INFO    __main__ | [AB] cycle: 1 markets, 0 entered, 0 exited
+Sep 12 21:30:35 ip-172-26-8-199 python[485224]: 21:30:35 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 12 21:30:35 ip-172-26-8-199 python[485224]: 21:30:35 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.39 -> floor $7646.79
+Sep 12 21:30:36 ip-172-26-8-199 python[485224]: 21:30:36 INFO    __main__ | [AB] cycle: 0 markets, 0 entered, 0 exited
+Sep 12 21:45:36 ip-172-26-8-199 python[485224]: 21:45:36 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 12 21:45:36 ip-172-26-8-199 python[485224]: 21:45:36 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.39 -> floor $7646.79
+Sep 12 21:45:38 ip-172-26-8-199 python[485224]: 21:45:38 INFO    __main__ | [AB] broadcast aec-mlb-cin-mil-2026-09-12 2026-09-12 | Milwaukee Brewers vs Cincinnati Reds -> not-national (1 national on date)
+Sep 12 21:45:38 ip-172-26-8-199 python[485224]: 21:45:38 INFO    __main__ | [AB] cycle: 1 markets, 0 entered, 0 exited
+Sep 12 22:00:38 ip-172-26-8-199 python[485224]: 22:00:38 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 12 22:00:38 ip-172-26-8-199 python[485224]: 22:00:38 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.39 -> floor $7646.79
+Sep 12 22:00:40 ip-172-26-8-199 python[485224]: 22:00:40 INFO    __main__ | [AB] broadcast aec-mlb-cin-mil-2026-09-12 2026-09-12 | Milwaukee Brewers vs Cincinnati Reds -> not-national (1 national on date)
+Sep 12 22:00:40 ip-172-26-8-199 python[485224]: 22:00:40 INFO    __main__ | [AB] cycle: 1 markets, 0 entered, 0 exited
+Sep 12 22:15:40 ip-172-26-8-199 python[485224]: 22:15:40 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 12 22:15:40 ip-172-26-8-199 python[485224]: 22:15:40 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.39 -> floor $7646.79
+Sep 12 22:15:41 ip-172-26-8-199 python[485224]: 22:15:41 INFO    __main__ | [AB] broadcast aec-mlb-cin-mil-2026-09-12 2026-09-12 | Milwaukee Brewers vs Cincinnati Reds -> not-national (1 national on date)
+Sep 12 22:15:41 ip-172-26-8-199 python[485224]: 22:15:41 INFO    __main__ | [AB] cycle: 1 markets, 0 entered, 0 exited
