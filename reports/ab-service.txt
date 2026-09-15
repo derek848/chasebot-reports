@@ -1,0 +1,31 @@
+active
+● chasebot-v2.service - Chasebot v2 Attention Bias live runner (REAL MONEY, $250 budget)
+     Loaded: loaded (/etc/systemd/system/chasebot-v2.service; enabled; preset: enabled)
+     Active: active (running) since Sat 2026-09-12 06:43:14 UTC; 3 days ago
+   Main PID: 485224 (python)
+      Tasks: 1 (limit: 1741)
+     Memory: 38.8M (peak: 62.9M)
+        CPU: 33.473s
+     CGroup: /system.slice/chasebot-v2.service
+             └─485224 /opt/chasebot/venv/bin/python -m chasebot.attention_bias.trade --loop --interval 900
+
+Sep 15 21:52:02 ip-172-26-8-199 python[485224]: 21:52:02 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-lad-cin-2026-09-15/book "HTTP/1.1 200 OK"
+Sep 15 21:52:03 ip-172-26-8-199 python[485224]: 21:52:03 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-mil-pit-2026-09-15/book "HTTP/1.1 200 OK"
+Sep 15 21:52:03 ip-172-26-8-199 python[485224]: 21:52:03 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-phi-wsh-2026-09-15/book "HTTP/1.1 200 OK"
+Sep 15 21:52:03 ip-172-26-8-199 python[485224]: 21:52:03 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-det-tor-2026-09-15/book "HTTP/1.1 200 OK"
+Sep 15 21:52:03 ip-172-26-8-199 python[485224]: 21:52:03 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-bal-nym-2026-09-15/book "HTTP/1.1 429 Too Many Requests"
+Sep 15 21:52:03 ip-172-26-8-199 python[485224]: 21:52:03 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-nyy-min-2026-09-15/book "HTTP/1.1 429 Too Many Requests"
+Sep 15 21:52:03 ip-172-26-8-199 python[485224]: 21:52:03 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-sf-stl-2026-09-15/book "HTTP/1.1 429 Too Many Requests"
+Sep 15 21:52:03 ip-172-26-8-199 python[485224]: 21:52:03 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-bos-tex-2026-09-15/book "HTTP/1.1 429 Too Many Requests"
+Sep 15 21:52:03 ip-172-26-8-199 python[485224]: 21:52:03 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-sd-col-2026-09-15/book "HTTP/1.1 429 Too Many Requests"
+Sep 15 21:52:03 ip-172-26-8-199 python[485224]: 21:52:03 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-cws-cle-2026-09-15/book "HTTP/1.1 429 Too Many Requests"
+Sep 15 21:52:03 ip-172-26-8-199 python[485224]: 21:52:03 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-lad-cin-2026-09-15/book "HTTP/1.1 429 Too Many Requests"
+Sep 15 21:52:03 ip-172-26-8-199 python[485224]: 21:52:03 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-mil-pit-2026-09-15/book "HTTP/1.1 429 Too Many Requests"
+Sep 15 21:52:03 ip-172-26-8-199 python[485224]: 21:52:03 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-phi-wsh-2026-09-15/book "HTTP/1.1 429 Too Many Requests"
+Sep 15 21:52:03 ip-172-26-8-199 python[485224]: 21:52:03 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-det-tor-2026-09-15/book "HTTP/1.1 429 Too Many Requests"
+Sep 15 21:52:03 ip-172-26-8-199 python[485224]: 21:52:03 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-bal-nym-2026-09-15/book "HTTP/1.1 429 Too Many Requests"
+Sep 15 21:52:03 ip-172-26-8-199 python[485224]: 21:52:03 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-nyy-min-2026-09-15/book "HTTP/1.1 429 Too Many Requests"
+Sep 15 21:52:03 ip-172-26-8-199 python[485224]: 21:52:03 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-sf-stl-2026-09-15/book "HTTP/1.1 429 Too Many Requests"
+Sep 15 21:52:03 ip-172-26-8-199 python[485224]: 21:52:03 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-bos-tex-2026-09-15/book "HTTP/1.1 429 Too Many Requests"
+Sep 15 21:52:03 ip-172-26-8-199 python[485224]: 21:52:03 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-sd-col-2026-09-15/book "HTTP/1.1 429 Too Many Requests"
+Sep 15 21:52:03 ip-172-26-8-199 python[485224]: 21:52:03 INFO    __main__ | [AB] cycle: 0 markets, 0 entered, 0 exited
