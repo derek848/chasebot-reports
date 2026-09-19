@@ -1,0 +1,50 @@
+ESPN RSS did not parse: no element found: line 1, column 0
+attention_bias field-path verification — no orders, no exchange calls
+
+statsapi /schedule + hydrate=broadcasts(all)  [national_broadcast]
+  PASS  fetch  — https://statsapi.mlb.com/api/v1/schedule?sportId=1&date=2026-09-19&hydrate=broadcasts(all)
+  PASS  gamePk + team names  — 15 games today
+  PASS  broadcasts hydration  — 15/15 games carry broadcasts
+  FAIL  national detection
+          0/15 games flagged national. That is normal on a day with no national game, but confirm against the schedule. Broadcast entry fields seen: ['availability', 'availableForStreaming', 'broadcastDate', 'callSign', 'colorSpace', 'freeGame', 'freeGameStatus', 'gameDateBroadcastGuid', 'homeAway', 'id', 'isNational', 'language', 'mediaId', 'mediaState', 'mvpdAuthRequired', 'name', 'postGameShow', 'preGameShow', 'type', 'videoResolution']
+          sample entry: {'id': 6240, 'name': 'Chicago Sports Network', 'type': 'TV', 'language': 'en', 'isNational': False, 'callSign': 'CHSN', 'videoResolution': {'code': 'FHD', 'resolutionShort': 'FHD', 'resolutionFull': 'Full High Definition (1080p)'}, 'availability': {'availabilityId': 2, 'availabilityCode': 'local_out_of_market', 'availabilityText': 'Local (Out of Market)'}, 'mediaState': {'mediaStateId': 2, 'mediaStateCode': 'MEDIA_ON', 'mediaStateText': 'Media On'}, 'broadcastDate': '2026-09-19', 'mediaId': 'a41f0a3a-458c-40ad-9b0a-b675a241a4ae', 'colorSpace': {'code': 'SDR', 'colorSpaceFull': 'Standard Dynamic Range'}, 'gameDateBroadcastGuid': 'a41f0a3a-458c-40ad-9b0a-b675a241a4ae', 'homeAway': 'home', 'freeGame': False, 'availableForStreaming': True, 'preGameShow': '2026-09-19T17:30:00Z', 'postGameShow': True, 'mvpdAuthRequired': False, 'freeGameStatus': False}
+
+statsapi /schedule by team  [recent form / streaks]
+  PASS  get_recent_games  — 10 finals for team 147 in 30 days
+
+ESPN news  [media narrative]
+  PASS  fetch via google-news  — 25 articles
+  PASS  team tagging  — Detroit Tigers=5, Chicago White Sox=3, Toronto Blue Jays=2
+  PASS  sentiment  — [('Bracket, tiebreakers and more: Here is the curre', 0.0), ('Positive news on Contreras, Chapman tops list of', 0.0), ('Verlander throws a simulated inning in push to s', 0.0), ('Watch FREE: 2024 first-rounder King (WSH) digs i', 0.0), ('The best of the best who made their MLB debuts t', 0.0)]
+
+statsapi /sports/1/players  [player -> club tagging]
+  PASS  load  — 1118 names across 30 clubs (cache 15h old)
+  PASS  club names match MLB_CLUBS
+  PASS  ambiguous names dropped  — 44, e.g. alexander, anderson, beck, black, cabrera, castro
+
+today's slate x media score  [does the join produce anything?]
+  PASS  slate  — 30 clubs playing, 50 articles fetched
+  PASS  clubs with a non-zero media score  — Minnesota Twins(1) +0.20
+  PASS  no articles at all  — 12/30: Arizona Diamondbacks, Cincinnati Reds, Colorado Rockies, Kansas City Royals, Miami Marlins, Milwaukee Brewers, New York Mets, Pittsburgh Pirates
+  PASS  articles but zero sentiment  — 17/30: Athletics(2), Atlanta Braves(3), Baltimore Orioles(1), Boston Red Sox(3), Chicago Cubs(1), Chicago White Sox(5), Cleveland Guardians(1), Detroit Tigers(8)
+  PASS  articles that score at all  — 4/50
+  PASS  ...of those, carrying a team tag  — 1/4
+  PASS    index says  — 'Judge headed back to IL with right calf stra' -> nobody
+  PASS    index says  — "Montes' prep for clutch HR at Coors? PlaySta" -> nobody
+  PASS    index says  — '2026 AL, NL MVP Odds: PCA, Alvarez Running A' -> nobody
+
+media source reachability  [ESPN replacement candidates]
+  PASS  statsapi editorial  — HTTP 200, 4096+ bytes
+  PASS  mlb.com news RSS  — HTTP 200, 4096+ bytes
+  PASS  google news RSS  — HTTP 200, 4096+ bytes
+  FAIL  espn (current)
+          HTTPError: HTTP Error 403: Forbidden
+
+Wikipedia pageviews  [social_percentile]
+  PASS  fetch + parse  — Yankees 1,226,276 views over 12 months
+  PASS  league percentiles  — 30/30 clubs (cache 165h old); top: Toronto Blue Jays, bottom: Athletics
+
+odds API: skipped (ODDS_API_KEY not set)
+
+24 passed, 2 failed
+Field paths above marked FAIL are wrong or the API changed. Nothing should be armed until they read PASS.

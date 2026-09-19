@@ -1,0 +1,31 @@
+active
+● chasebot-v2.service - Chasebot v2 Attention Bias live runner (REAL MONEY, $250 budget)
+     Loaded: loaded (/etc/systemd/system/chasebot-v2.service; enabled; preset: enabled)
+     Active: active (running) since Fri 2026-09-18 06:31:17 UTC; 1 day 13h ago
+   Main PID: 575677 (python)
+      Tasks: 1 (limit: 1741)
+     Memory: 60.5M (peak: 77.7M)
+        CPU: 13.942s
+     CGroup: /system.slice/chasebot-v2.service
+             └─575677 /opt/chasebot/venv/bin/python -m chasebot.attention_bias.trade --loop --interval 900
+
+Sep 19 19:20:08 ip-172-26-8-199 python[575677]: 19:20:08 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-nyy-az-2026-09-19/book "HTTP/1.1 429 Too Many Requests"
+Sep 19 19:20:08 ip-172-26-8-199 python[575677]: 19:20:08 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-min-laa-2026-09-19/book "HTTP/1.1 429 Too Many Requests"
+Sep 19 19:20:08 ip-172-26-8-199 python[575677]: 19:20:08 INFO    __main__ | [AB] cycle: 0 markets, 0 entered, 0 exited
+Sep 19 19:35:08 ip-172-26-8-199 python[575677]: 19:35:08 INFO    httpx | HTTP Request: GET https://api.polymarket.us/v1/account/balances "HTTP/1.1 200 OK"
+Sep 19 19:35:08 ip-172-26-8-199 python[575677]: 19:35:08 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 19 19:35:08 ip-172-26-8-199 python[575677]: 19:35:08 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.39 -> floor $7646.79
+Sep 19 19:35:09 ip-172-26-8-199 python[575677]: 19:35:09 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets?active=true&closed=false&limit=300&orderBy=volume&orderDirection=desc "HTTP/1.1 200 OK"
+Sep 19 19:35:09 ip-172-26-8-199 python[575677]: 19:35:09 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-mil-bal-2026-09-19/book "HTTP/1.1 200 OK"
+Sep 19 19:35:09 ip-172-26-8-199 python[575677]: 19:35:09 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-bos-tb-2026-09-19/book "HTTP/1.1 200 OK"
+Sep 19 19:35:09 ip-172-26-8-199 python[575677]: 19:35:09 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-phi-nym-2026-09-19/book "HTTP/1.1 200 OK"
+Sep 19 19:35:09 ip-172-26-8-199 python[575677]: 19:35:09 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-wsh-stl-2026-09-19/book "HTTP/1.1 200 OK"
+Sep 19 19:35:09 ip-172-26-8-199 python[575677]: 19:35:09 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-nyy-az-2026-09-19/book "HTTP/1.1 429 Too Many Requests"
+Sep 19 19:35:10 ip-172-26-8-199 python[575677]: 19:35:10 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-min-laa-2026-09-19/book "HTTP/1.1 429 Too Many Requests"
+Sep 19 19:35:10 ip-172-26-8-199 python[575677]: 19:35:10 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-mil-bal-2026-09-19/book "HTTP/1.1 429 Too Many Requests"
+Sep 19 19:35:10 ip-172-26-8-199 python[575677]: 19:35:10 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-bos-tb-2026-09-19/book "HTTP/1.1 429 Too Many Requests"
+Sep 19 19:35:10 ip-172-26-8-199 python[575677]: 19:35:10 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-phi-nym-2026-09-19/book "HTTP/1.1 429 Too Many Requests"
+Sep 19 19:35:10 ip-172-26-8-199 python[575677]: 19:35:10 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-wsh-stl-2026-09-19/book "HTTP/1.1 429 Too Many Requests"
+Sep 19 19:35:10 ip-172-26-8-199 python[575677]: 19:35:10 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-nyy-az-2026-09-19/book "HTTP/1.1 429 Too Many Requests"
+Sep 19 19:35:10 ip-172-26-8-199 python[575677]: 19:35:10 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-min-laa-2026-09-19/book "HTTP/1.1 429 Too Many Requests"
+Sep 19 19:35:10 ip-172-26-8-199 python[575677]: 19:35:10 INFO    __main__ | [AB] cycle: 0 markets, 0 entered, 0 exited
