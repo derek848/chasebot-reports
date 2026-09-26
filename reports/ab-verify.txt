@@ -1,0 +1,45 @@
+ESPN RSS did not parse: no element found: line 1, column 0
+attention_bias field-path verification — no orders, no exchange calls
+
+statsapi /schedule + hydrate=broadcasts(all)  [national_broadcast]
+  PASS  fetch  — https://statsapi.mlb.com/api/v1/schedule?sportId=1&date=2026-09-26&hydrate=broadcasts(all)
+  PASS  gamePk + team names  — 13 games today
+  PASS  broadcasts hydration  — 13/13 games carry broadcasts
+  PASS  national detection  — 1/13 games flagged national
+
+statsapi /schedule by team  [recent form / streaks]
+  PASS  get_recent_games  — 10 finals for team 147 in 30 days
+
+ESPN news  [media narrative]
+  PASS  fetch via google-news  — 25 articles
+  PASS  team tagging  — Toronto Blue Jays=4, Detroit Tigers=3, Cincinnati Reds=3
+  PASS  sentiment  — [('Bracket, tiebreakers and more: Here is the curre', 0.0), ('MLB playoffs 2026 tracker: Standings, schedule, ', 0.0), ('A pair of 3-way ties are in play in the NL Wild ', 0.0), ('AL West ineptitude: MLB to have first playoff te', 0.0), ('What to know ahead of Red Sox-Yankees Wild Card ', 0.0)]
+
+statsapi /sports/1/players  [player -> club tagging]
+  PASS  load  — 1140 names across 30 clubs (cache 17h old)
+  PASS  club names match MLB_CLUBS
+  PASS  ambiguous names dropped  — 43, e.g. alexander, anderson, black, burgos, castillo, castro
+
+today's slate x media score  [does the join produce anything?]
+  PASS  slate  — 26 clubs playing, 50 articles fetched
+  PASS  clubs with a non-zero media score  — Arizona Diamondbacks(1) -0.20
+  PASS  no articles at all  — 11/26: Athletics, Cleveland Guardians, Colorado Rockies, Kansas City Royals, Los Angeles Angels, Milwaukee Brewers, Minnesota Twins, San Diego Padres
+  PASS  articles but zero sentiment  — 14/26: Atlanta Braves(1), Chicago White Sox(1), Cincinnati Reds(4), Detroit Tigers(7), Houston Astros(1), Los Angeles Dodgers(1), Miami Marlins(1), New York Mets(3)
+  PASS  articles that score at all  — 1/50
+  PASS  ...of those, carrying a team tag  — 1/1
+
+media source reachability  [ESPN replacement candidates]
+  PASS  statsapi editorial  — HTTP 200, 4096+ bytes
+  PASS  mlb.com news RSS  — HTTP 200, 4096+ bytes
+  PASS  google news RSS  — HTTP 200, 4096+ bytes
+  FAIL  espn (current)
+          HTTPError: HTTP Error 403: Forbidden
+
+Wikipedia pageviews  [social_percentile]
+  PASS  fetch + parse  — Yankees 1,226,276 views over 12 months
+  PASS  league percentiles  — 30/30 clubs (cache 168h old); top: Toronto Blue Jays, bottom: Athletics
+
+odds API: skipped (ODDS_API_KEY not set)
+
+22 passed, 1 failed
+Field paths above marked FAIL are wrong or the API changed. Nothing should be armed until they read PASS.

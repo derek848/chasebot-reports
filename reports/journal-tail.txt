@@ -1,0 +1,96 @@
+Sep 26 16:45:54 ip-172-26-8-199 python[707716]: 16:45:54 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 26 16:45:54 ip-172-26-8-199 python[707716]: 16:45:54 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $132.36 -> floor $7646.79
+Sep 26 16:45:55 ip-172-26-8-199 python[707716]: 16:45:55 INFO    __main__ | [AB] broadcast aec-mlb-pit-det-2026-09-26 2026-09-26 | Detroit Tigers vs Pittsburgh Pirates -> not-national (1 national on date)
+Sep 26 16:45:55 ip-172-26-8-199 python[707716]: 16:45:55 INFO    __main__ | [AB] broadcast aec-mlb-lad-sf-2026-09-26 2026-09-26 | San Francisco Giants vs Los Angeles Dodgers -> not-national (1 national on date)
+Sep 26 16:45:55 ip-172-26-8-199 python[707716]: 16:45:55 INFO    __main__ | [AB] cycle: 2 markets, 0 entered, 0 exited
+Sep 26 17:00:55 ip-172-26-8-199 python[707716]: 17:00:55 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 26 17:00:55 ip-172-26-8-199 python[707716]: 17:00:55 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $132.36 -> floor $7646.79
+Sep 26 17:00:56 ip-172-26-8-199 python[707716]: 17:00:56 INFO    __main__ | [AB] broadcast aec-mlb-pit-det-2026-09-26 2026-09-26 | Detroit Tigers vs Pittsburgh Pirates -> not-national (1 national on date)
+Sep 26 17:00:56 ip-172-26-8-199 python[707716]: 17:00:56 INFO    __main__ | [AB] broadcast aec-mlb-lad-sf-2026-09-26 2026-09-26 | San Francisco Giants vs Los Angeles Dodgers -> not-national (1 national on date)
+Sep 26 17:00:56 ip-172-26-8-199 python[707716]: 17:00:56 INFO    __main__ | [AB] cycle: 2 markets, 0 entered, 0 exited
+Sep 26 17:15:57 ip-172-26-8-199 python[707716]: 17:15:57 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 26 17:15:57 ip-172-26-8-199 python[707716]: 17:15:57 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $132.36 -> floor $7646.79
+Sep 26 17:15:57 ip-172-26-8-199 python[707716]: 17:15:57 INFO    __main__ | [AB] broadcast aec-mlb-lad-sf-2026-09-26 2026-09-26 | San Francisco Giants vs Los Angeles Dodgers -> not-national (1 national on date)
+Sep 26 17:15:58 ip-172-26-8-199 python[707716]: 17:15:58 INFO    __main__ | [AB] broadcast aec-mlb-cle-kc-2026-09-26 2026-09-26 | Kansas City Royals vs Cleveland Guardians -> not-national (1 national on date)
+Sep 26 17:15:58 ip-172-26-8-199 python[707716]: 17:15:58 INFO    __main__ | [AB] cycle: 2 markets, 0 entered, 0 exited
+Sep 26 17:30:58 ip-172-26-8-199 python[707716]: 17:30:58 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 26 17:30:58 ip-172-26-8-199 python[707716]: 17:30:58 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $132.36 -> floor $7646.79
+Sep 26 17:30:59 ip-172-26-8-199 python[707716]: 17:30:59 INFO    __main__ | [AB] broadcast aec-mlb-lad-sf-2026-09-26 2026-09-26 | San Francisco Giants vs Los Angeles Dodgers -> not-national (1 national on date)
+Sep 26 17:30:59 ip-172-26-8-199 python[707716]: 17:30:59 INFO    __main__ | [AB] cycle: 1 markets, 0 entered, 0 exited
+Sep 26 17:45:59 ip-172-26-8-199 python[707716]: 17:45:59 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 26 17:45:59 ip-172-26-8-199 python[707716]: 17:45:59 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $132.36 -> floor $7646.79
+Sep 26 17:45:59 ip-172-26-8-199 python[707716]: 17:45:59 INFO    __main__ | [AB] broadcast aec-mlb-lad-sf-2026-09-26 2026-09-26 | San Francisco Giants vs Los Angeles Dodgers -> not-national (1 national on date)
+Sep 26 17:45:59 ip-172-26-8-199 python[707716]: 17:45:59 INFO    __main__ | [AB] broadcast aec-mlb-cle-kc-2026-09-26 2026-09-26 | Kansas City Royals vs Cleveland Guardians -> not-national (1 national on date)
+Sep 26 17:45:59 ip-172-26-8-199 python[707716]: 17:45:59 INFO    __main__ | [AB] cycle: 2 markets, 0 entered, 0 exited
+Sep 26 18:01:00 ip-172-26-8-199 python[707716]: 18:01:00 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 26 18:01:00 ip-172-26-8-199 python[707716]: 18:01:00 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $132.36 -> floor $7646.79
+Sep 26 18:01:01 ip-172-26-8-199 python[707716]: 18:01:01 INFO    __main__ | [AB] broadcast aec-mlb-lad-sf-2026-09-26 2026-09-26 | San Francisco Giants vs Los Angeles Dodgers -> not-national (1 national on date)
+Sep 26 18:01:02 ip-172-26-8-199 python[707716]: 18:01:02 INFO    __main__ | [AB] broadcast aec-mlb-cle-kc-2026-09-26 2026-09-26 | Kansas City Royals vs Cleveland Guardians -> not-national (1 national on date)
+Sep 26 18:01:02 ip-172-26-8-199 python[707716]: 18:01:02 INFO    __main__ | [AB] cycle: 2 markets, 0 entered, 0 exited
+Sep 26 18:16:02 ip-172-26-8-199 python[707716]: 18:16:02 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 26 18:16:02 ip-172-26-8-199 python[707716]: 18:16:02 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $132.36 -> floor $7646.79
+Sep 26 18:16:03 ip-172-26-8-199 python[707716]: 18:16:03 INFO    __main__ | [AB] broadcast aec-mlb-lad-sf-2026-09-26 2026-09-26 | San Francisco Giants vs Los Angeles Dodgers -> not-national (1 national on date)
+Sep 26 18:16:03 ip-172-26-8-199 python[707716]: 18:16:03 INFO    __main__ | [AB] broadcast aec-mlb-cle-kc-2026-09-26 2026-09-26 | Kansas City Royals vs Cleveland Guardians -> not-national (1 national on date)
+Sep 26 18:16:03 ip-172-26-8-199 python[707716]: 18:16:03 INFO    __main__ | [AB] cycle: 2 markets, 0 entered, 0 exited
+Sep 26 18:31:03 ip-172-26-8-199 python[707716]: 18:31:03 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 26 18:31:03 ip-172-26-8-199 python[707716]: 18:31:03 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $132.36 -> floor $7646.79
+Sep 26 18:31:05 ip-172-26-8-199 python[707716]: 18:31:05 INFO    __main__ | [AB] cycle: 0 markets, 0 entered, 0 exited
+Sep 26 18:46:05 ip-172-26-8-199 python[707716]: 18:46:05 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 26 18:46:05 ip-172-26-8-199 python[707716]: 18:46:05 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $132.36 -> floor $7646.79
+Sep 26 18:46:06 ip-172-26-8-199 python[707716]: 18:46:06 INFO    __main__ | [AB] cycle: 0 markets, 0 entered, 0 exited
+Sep 26 19:01:06 ip-172-26-8-199 python[707716]: 19:01:06 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 26 19:01:06 ip-172-26-8-199 python[707716]: 19:01:06 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $132.36 -> floor $7646.79
+Sep 26 19:01:08 ip-172-26-8-199 python[707716]: 19:01:08 INFO    __main__ | [AB] broadcast aec-mlb-lad-sf-2026-09-26 2026-09-26 | San Francisco Giants vs Los Angeles Dodgers -> not-national (1 national on date)
+Sep 26 19:01:08 ip-172-26-8-199 python[707716]: 19:01:08 INFO    __main__ | [AB] cycle: 1 markets, 0 entered, 0 exited
+Sep 26 19:16:08 ip-172-26-8-199 python[707716]: 19:16:08 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 26 19:16:08 ip-172-26-8-199 python[707716]: 19:16:08 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $132.36 -> floor $7646.79
+Sep 26 19:16:10 ip-172-26-8-199 python[707716]: 19:16:10 INFO    __main__ | [AB] broadcast aec-mlb-lad-sf-2026-09-26 2026-09-26 | San Francisco Giants vs Los Angeles Dodgers -> not-national (1 national on date)
+Sep 26 19:16:10 ip-172-26-8-199 python[707716]: 19:16:10 INFO    __main__ | [AB] cycle: 1 markets, 0 entered, 0 exited
+Sep 26 19:31:10 ip-172-26-8-199 python[707716]: 19:31:10 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 26 19:31:10 ip-172-26-8-199 python[707716]: 19:31:10 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $132.36 -> floor $7646.79
+Sep 26 19:31:11 ip-172-26-8-199 python[707716]: 19:31:11 INFO    __main__ | [AB] broadcast aec-mlb-lad-sf-2026-09-26 2026-09-26 | San Francisco Giants vs Los Angeles Dodgers -> not-national (1 national on date)
+Sep 26 19:31:11 ip-172-26-8-199 python[707716]: 19:31:11 INFO    __main__ | [AB] broadcast aec-mlb-cle-kc-2026-09-26 2026-09-26 | Kansas City Royals vs Cleveland Guardians -> not-national (1 national on date)
+Sep 26 19:31:11 ip-172-26-8-199 python[707716]: 19:31:11 INFO    __main__ | [AB] cycle: 2 markets, 0 entered, 0 exited
+Sep 26 19:46:11 ip-172-26-8-199 python[707716]: 19:46:11 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 26 19:46:11 ip-172-26-8-199 python[707716]: 19:46:11 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $132.36 -> floor $7646.79
+Sep 26 19:46:13 ip-172-26-8-199 python[707716]: 19:46:13 INFO    __main__ | [AB] broadcast aec-mlb-lad-sf-2026-09-26 2026-09-26 | San Francisco Giants vs Los Angeles Dodgers -> not-national (1 national on date)
+Sep 26 19:46:13 ip-172-26-8-199 python[707716]: 19:46:13 INFO    __main__ | [AB] broadcast aec-mlb-cle-kc-2026-09-26 2026-09-26 | Kansas City Royals vs Cleveland Guardians -> not-national (1 national on date)
+Sep 26 19:46:13 ip-172-26-8-199 python[707716]: 19:46:13 INFO    __main__ | [AB] cycle: 2 markets, 0 entered, 0 exited
+Sep 26 20:01:13 ip-172-26-8-199 python[707716]: 20:01:13 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 26 20:01:13 ip-172-26-8-199 python[707716]: 20:01:13 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $132.36 -> floor $7646.79
+Sep 26 20:01:15 ip-172-26-8-199 python[707716]: 20:01:15 INFO    __main__ | [AB] broadcast aec-mlb-lad-sf-2026-09-26 2026-09-26 | San Francisco Giants vs Los Angeles Dodgers -> not-national (1 national on date)
+Sep 26 20:01:15 ip-172-26-8-199 python[707716]: 20:01:15 INFO    __main__ | [AB] broadcast aec-mlb-tex-min-2026-09-26 2026-09-26 | Minnesota Twins vs Texas Rangers -> not-national (1 national on date)
+Sep 26 20:01:15 ip-172-26-8-199 python[707716]: 20:01:15 INFO    __main__ | [AB] cycle: 2 markets, 0 entered, 0 exited
+Sep 26 20:16:15 ip-172-26-8-199 python[707716]: 20:16:15 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 26 20:16:15 ip-172-26-8-199 python[707716]: 20:16:15 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $132.36 -> floor $7646.79
+Sep 26 20:16:16 ip-172-26-8-199 python[707716]: 20:16:16 INFO    __main__ | [AB] cycle: 0 markets, 0 entered, 0 exited
+Sep 26 20:31:16 ip-172-26-8-199 python[707716]: 20:31:16 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 26 20:31:16 ip-172-26-8-199 python[707716]: 20:31:16 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $132.36 -> floor $7646.79
+Sep 26 20:31:18 ip-172-26-8-199 python[707716]: 20:31:18 INFO    __main__ | [AB] broadcast aec-mlb-tex-min-2026-09-26 2026-09-26 | Minnesota Twins vs Texas Rangers -> not-national (1 national on date)
+Sep 26 20:31:18 ip-172-26-8-199 python[707716]: 20:31:18 INFO    __main__ | [AB] broadcast aec-mlb-cle-kc-2026-09-26 2026-09-26 | Kansas City Royals vs Cleveland Guardians -> not-national (1 national on date)
+Sep 26 20:31:18 ip-172-26-8-199 python[707716]: 20:31:18 INFO    __main__ | [AB] cycle: 2 markets, 0 entered, 0 exited
+Sep 26 20:46:18 ip-172-26-8-199 python[707716]: 20:46:18 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 26 20:46:18 ip-172-26-8-199 python[707716]: 20:46:18 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $132.36 -> floor $7646.79
+Sep 26 20:46:19 ip-172-26-8-199 python[707716]: 20:46:19 INFO    __main__ | [AB] cycle: 0 markets, 0 entered, 0 exited
+Sep 26 21:01:19 ip-172-26-8-199 python[707716]: 21:01:19 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 26 21:01:19 ip-172-26-8-199 python[707716]: 21:01:19 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $132.36 -> floor $7646.79
+Sep 26 21:01:20 ip-172-26-8-199 python[707716]: 21:01:20 INFO    __main__ | [AB] cycle: 0 markets, 0 entered, 0 exited
+Sep 26 21:16:20 ip-172-26-8-199 python[707716]: 21:16:20 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 26 21:16:20 ip-172-26-8-199 python[707716]: 21:16:20 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $132.36 -> floor $7646.79
+Sep 26 21:16:22 ip-172-26-8-199 python[707716]: 21:16:22 INFO    __main__ | [AB] cycle: 0 markets, 0 entered, 0 exited
+Sep 26 21:31:22 ip-172-26-8-199 python[707716]: 21:31:22 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 26 21:31:22 ip-172-26-8-199 python[707716]: 21:31:22 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $132.36 -> floor $7646.79
+Sep 26 21:31:23 ip-172-26-8-199 python[707716]: 21:31:23 INFO    __main__ | [AB] cycle: 0 markets, 0 entered, 0 exited
+Sep 26 21:46:23 ip-172-26-8-199 python[707716]: 21:46:23 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 26 21:46:23 ip-172-26-8-199 python[707716]: 21:46:23 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $132.36 -> floor $7646.79
+Sep 26 21:46:25 ip-172-26-8-199 python[707716]: 21:46:25 INFO    __main__ | [AB] broadcast aec-mlb-tex-min-2026-09-26 2026-09-26 | Minnesota Twins vs Texas Rangers -> not-national (1 national on date)
+Sep 26 21:46:25 ip-172-26-8-199 python[707716]: 21:46:25 INFO    __main__ | [AB] cycle: 1 markets, 0 entered, 0 exited
+Sep 26 22:01:25 ip-172-26-8-199 python[707716]: 22:01:25 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 26 22:01:25 ip-172-26-8-199 python[707716]: 22:01:25 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $132.36 -> floor $7646.79
+Sep 26 22:01:26 ip-172-26-8-199 python[707716]: 22:01:26 INFO    __main__ | [AB] cycle: 0 markets, 0 entered, 0 exited
+Sep 26 22:16:26 ip-172-26-8-199 python[707716]: 22:16:26 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 26 22:16:26 ip-172-26-8-199 python[707716]: 22:16:26 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $132.36 -> floor $7646.79
+Sep 26 22:16:27 ip-172-26-8-199 python[707716]: 22:16:27 INFO    __main__ | [AB] cycle: 0 markets, 0 entered, 0 exited
+Sep 26 22:31:28 ip-172-26-8-199 python[707716]: 22:31:28 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 26 22:31:28 ip-172-26-8-199 python[707716]: 22:31:28 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $132.36 -> floor $7646.79
+Sep 26 22:31:29 ip-172-26-8-199 python[707716]: 22:31:29 INFO    __main__ | [AB] cycle: 0 markets, 0 entered, 0 exited

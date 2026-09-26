@@ -1,0 +1,31 @@
+active
+● chasebot-v2.service - Chasebot v2 Attention Bias live runner (REAL MONEY, $250 budget)
+     Loaded: loaded (/etc/systemd/system/chasebot-v2.service; enabled; preset: enabled)
+     Active: active (running) since Sat 2026-09-26 07:00:13 UTC; 15h ago
+   Main PID: 707716 (python)
+      Tasks: 1 (limit: 1741)
+     Memory: 56.8M (peak: 61.3M)
+        CPU: 5.324s
+     CGroup: /system.slice/chasebot-v2.service
+             └─707716 /opt/chasebot/venv/bin/python -m chasebot.attention_bias.trade --loop --interval 900
+
+Sep 26 22:16:26 ip-172-26-8-199 python[707716]: 22:16:26 INFO    httpx | HTTP Request: GET https://api.polymarket.us/v1/account/balances "HTTP/1.1 200 OK"
+Sep 26 22:16:26 ip-172-26-8-199 python[707716]: 22:16:26 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 26 22:16:26 ip-172-26-8-199 python[707716]: 22:16:26 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $132.36 -> floor $7646.79
+Sep 26 22:16:27 ip-172-26-8-199 python[707716]: 22:16:27 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets?active=true&closed=false&limit=300&orderBy=volume&orderDirection=desc "HTTP/1.1 200 OK"
+Sep 26 22:16:27 ip-172-26-8-199 python[707716]: 22:16:27 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-cle-kc-2026-09-26/book "HTTP/1.1 200 OK"
+Sep 26 22:16:27 ip-172-26-8-199 python[707716]: 22:16:27 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-tb-phi-2026-09-26/book "HTTP/1.1 200 OK"
+Sep 26 22:16:27 ip-172-26-8-199 python[707716]: 22:16:27 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-cle-kc-2026-09-26/book "HTTP/1.1 429 Too Many Requests"
+Sep 26 22:16:27 ip-172-26-8-199 python[707716]: 22:16:27 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-tb-phi-2026-09-26/book "HTTP/1.1 429 Too Many Requests"
+Sep 26 22:16:27 ip-172-26-8-199 python[707716]: 22:16:27 INFO    __main__ | [AB] cycle: 0 markets, 0 entered, 0 exited
+Sep 26 22:31:28 ip-172-26-8-199 python[707716]: 22:31:28 INFO    httpx | HTTP Request: GET https://api.polymarket.us/v1/account/balances "HTTP/1.1 200 OK"
+Sep 26 22:31:28 ip-172-26-8-199 python[707716]: 22:31:28 INFO    chasebot.attention_bias.live | keeping the stored floor $7646.79 (computed would be $500.00) — the budget does not reset on restart
+Sep 26 22:31:28 ip-172-26-8-199 python[707716]: 22:31:28 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $132.36 -> floor $7646.79
+Sep 26 22:31:28 ip-172-26-8-199 python[707716]: 22:31:28 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets?active=true&closed=false&limit=300&orderBy=volume&orderDirection=desc "HTTP/1.1 200 OK"
+Sep 26 22:31:29 ip-172-26-8-199 python[707716]: 22:31:29 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-cle-kc-2026-09-26/book "HTTP/1.1 200 OK"
+Sep 26 22:31:29 ip-172-26-8-199 python[707716]: 22:31:29 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-tb-phi-2026-09-26/book "HTTP/1.1 200 OK"
+Sep 26 22:31:29 ip-172-26-8-199 python[707716]: 22:31:29 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-hou-ath-2026-09-26/book "HTTP/1.1 429 Too Many Requests"
+Sep 26 22:31:29 ip-172-26-8-199 python[707716]: 22:31:29 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-cle-kc-2026-09-26/book "HTTP/1.1 429 Too Many Requests"
+Sep 26 22:31:29 ip-172-26-8-199 python[707716]: 22:31:29 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-tb-phi-2026-09-26/book "HTTP/1.1 429 Too Many Requests"
+Sep 26 22:31:29 ip-172-26-8-199 python[707716]: 22:31:29 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-hou-ath-2026-09-26/book "HTTP/1.1 429 Too Many Requests"
+Sep 26 22:31:29 ip-172-26-8-199 python[707716]: 22:31:29 INFO    __main__ | [AB] cycle: 0 markets, 0 entered, 0 exited
