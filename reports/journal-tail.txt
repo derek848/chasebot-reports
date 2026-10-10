@@ -1,0 +1,72 @@
+Oct 10 10:21:08 ip-172-26-8-199 python[772815]: 10:21:08 INFO    chasebot.attention_bias.live | keeping the stored floor $18069.54 (computed would be $6138.74) — the budget does not reset on restart
+Oct 10 10:21:08 ip-172-26-8-199 python[772815]: 10:21:08 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $6388.74 -> floor $18069.54
+Oct 10 10:21:09 ip-172-26-8-199 python[772815]: 10:21:09 INFO    __main__ | no oriented markets this cycle
+Oct 10 10:36:09 ip-172-26-8-199 python[772815]: 10:36:09 INFO    chasebot.attention_bias.live | keeping the stored floor $18069.54 (computed would be $6138.74) — the budget does not reset on restart
+Oct 10 10:36:09 ip-172-26-8-199 python[772815]: 10:36:09 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $6388.74 -> floor $18069.54
+Oct 10 10:36:09 ip-172-26-8-199 python[772815]: 10:36:09 INFO    __main__ | no oriented markets this cycle
+Oct 10 10:51:09 ip-172-26-8-199 python[772815]: 10:51:09 INFO    chasebot.attention_bias.live | keeping the stored floor $18069.54 (computed would be $6138.74) — the budget does not reset on restart
+Oct 10 10:51:09 ip-172-26-8-199 python[772815]: 10:51:09 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $6388.74 -> floor $18069.54
+Oct 10 10:51:10 ip-172-26-8-199 python[772815]: 10:51:10 INFO    __main__ | no oriented markets this cycle
+Oct 10 11:06:10 ip-172-26-8-199 python[772815]: 11:06:10 INFO    chasebot.attention_bias.live | keeping the stored floor $18069.54 (computed would be $6138.74) — the budget does not reset on restart
+Oct 10 11:06:10 ip-172-26-8-199 python[772815]: 11:06:10 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $6388.74 -> floor $18069.54
+Oct 10 11:06:11 ip-172-26-8-199 python[772815]: 11:06:11 INFO    __main__ | no oriented markets this cycle
+Oct 10 11:21:11 ip-172-26-8-199 python[772815]: 11:21:11 INFO    chasebot.attention_bias.live | keeping the stored floor $18069.54 (computed would be $6138.74) — the budget does not reset on restart
+Oct 10 11:21:11 ip-172-26-8-199 python[772815]: 11:21:11 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $6388.74 -> floor $18069.54
+Oct 10 11:21:11 ip-172-26-8-199 python[772815]: 11:21:11 INFO    __main__ | no oriented markets this cycle
+Oct 10 11:36:11 ip-172-26-8-199 python[772815]: 11:36:11 INFO    chasebot.attention_bias.live | keeping the stored floor $18069.54 (computed would be $6138.74) — the budget does not reset on restart
+Oct 10 11:36:11 ip-172-26-8-199 python[772815]: 11:36:11 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $6388.74 -> floor $18069.54
+Oct 10 11:36:12 ip-172-26-8-199 python[772815]: 11:36:12 INFO    __main__ | no oriented markets this cycle
+Oct 10 11:51:12 ip-172-26-8-199 python[772815]: 11:51:12 INFO    chasebot.attention_bias.live | keeping the stored floor $18069.54 (computed would be $6138.74) — the budget does not reset on restart
+Oct 10 11:51:12 ip-172-26-8-199 python[772815]: 11:51:12 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $6388.74 -> floor $18069.54
+Oct 10 11:51:13 ip-172-26-8-199 python[772815]: 11:51:13 INFO    __main__ | no oriented markets this cycle
+Oct 10 12:06:13 ip-172-26-8-199 python[772815]: 12:06:13 INFO    chasebot.attention_bias.live | keeping the stored floor $18069.54 (computed would be $6138.74) — the budget does not reset on restart
+Oct 10 12:06:13 ip-172-26-8-199 python[772815]: 12:06:13 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $6388.74 -> floor $18069.54
+Oct 10 12:06:13 ip-172-26-8-199 python[772815]: 12:06:13 INFO    __main__ | no oriented markets this cycle
+Oct 10 12:21:13 ip-172-26-8-199 python[772815]: 12:21:13 INFO    chasebot.attention_bias.live | keeping the stored floor $18069.54 (computed would be $6138.74) — the budget does not reset on restart
+Oct 10 12:21:13 ip-172-26-8-199 python[772815]: 12:21:13 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $6388.74 -> floor $18069.54
+Oct 10 12:21:14 ip-172-26-8-199 python[772815]: 12:21:14 INFO    __main__ | no oriented markets this cycle
+Oct 10 12:36:14 ip-172-26-8-199 python[772815]: 12:36:14 INFO    chasebot.attention_bias.live | keeping the stored floor $18069.54 (computed would be $6138.74) — the budget does not reset on restart
+Oct 10 12:36:14 ip-172-26-8-199 python[772815]: 12:36:14 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $6388.74 -> floor $18069.54
+Oct 10 12:36:15 ip-172-26-8-199 python[772815]: 12:36:15 INFO    __main__ | no oriented markets this cycle
+Oct 10 12:51:15 ip-172-26-8-199 python[772815]: 12:51:15 INFO    chasebot.attention_bias.live | keeping the stored floor $18069.54 (computed would be $6138.74) — the budget does not reset on restart
+Oct 10 12:51:15 ip-172-26-8-199 python[772815]: 12:51:15 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $6388.74 -> floor $18069.54
+Oct 10 12:51:15 ip-172-26-8-199 python[772815]: 12:51:15 INFO    __main__ | no oriented markets this cycle
+Oct 10 13:06:15 ip-172-26-8-199 python[772815]: 13:06:15 INFO    chasebot.attention_bias.live | keeping the stored floor $18069.54 (computed would be $6138.74) — the budget does not reset on restart
+Oct 10 13:06:15 ip-172-26-8-199 python[772815]: 13:06:15 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $6388.74 -> floor $18069.54
+Oct 10 13:06:16 ip-172-26-8-199 python[772815]: 13:06:16 INFO    __main__ | no oriented markets this cycle
+Oct 10 13:21:16 ip-172-26-8-199 python[772815]: 13:21:16 INFO    chasebot.attention_bias.live | keeping the stored floor $18069.54 (computed would be $6138.74) — the budget does not reset on restart
+Oct 10 13:21:16 ip-172-26-8-199 python[772815]: 13:21:16 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $6388.74 -> floor $18069.54
+Oct 10 13:21:17 ip-172-26-8-199 python[772815]: 13:21:17 INFO    __main__ | no oriented markets this cycle
+Oct 10 13:36:17 ip-172-26-8-199 python[772815]: 13:36:17 INFO    chasebot.attention_bias.live | keeping the stored floor $18069.54 (computed would be $6138.74) — the budget does not reset on restart
+Oct 10 13:36:17 ip-172-26-8-199 python[772815]: 13:36:17 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $6388.74 -> floor $18069.54
+Oct 10 13:36:17 ip-172-26-8-199 python[772815]: 13:36:17 INFO    __main__ | no oriented markets this cycle
+Oct 10 13:51:17 ip-172-26-8-199 python[772815]: 13:51:17 INFO    chasebot.attention_bias.live | keeping the stored floor $18069.54 (computed would be $6138.74) — the budget does not reset on restart
+Oct 10 13:51:17 ip-172-26-8-199 python[772815]: 13:51:17 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $6388.74 -> floor $18069.54
+Oct 10 13:51:18 ip-172-26-8-199 python[772815]: 13:51:18 INFO    __main__ | no oriented markets this cycle
+Oct 10 14:06:18 ip-172-26-8-199 python[772815]: 14:06:18 INFO    chasebot.attention_bias.live | keeping the stored floor $18069.54 (computed would be $6138.74) — the budget does not reset on restart
+Oct 10 14:06:18 ip-172-26-8-199 python[772815]: 14:06:18 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $6388.74 -> floor $18069.54
+Oct 10 14:06:18 ip-172-26-8-199 python[772815]: 14:06:18 INFO    __main__ | no oriented markets this cycle
+Oct 10 14:21:18 ip-172-26-8-199 python[772815]: 14:21:18 INFO    chasebot.attention_bias.live | keeping the stored floor $18069.54 (computed would be $6138.74) — the budget does not reset on restart
+Oct 10 14:21:18 ip-172-26-8-199 python[772815]: 14:21:18 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $6388.74 -> floor $18069.54
+Oct 10 14:21:19 ip-172-26-8-199 python[772815]: 14:21:19 INFO    __main__ | no oriented markets this cycle
+Oct 10 14:36:19 ip-172-26-8-199 python[772815]: 14:36:19 INFO    chasebot.attention_bias.live | keeping the stored floor $18069.54 (computed would be $6138.74) — the budget does not reset on restart
+Oct 10 14:36:19 ip-172-26-8-199 python[772815]: 14:36:19 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $6388.74 -> floor $18069.54
+Oct 10 14:36:19 ip-172-26-8-199 python[772815]: 14:36:19 INFO    __main__ | no oriented markets this cycle
+Oct 10 14:51:19 ip-172-26-8-199 python[772815]: 14:51:19 INFO    chasebot.attention_bias.live | keeping the stored floor $18069.54 (computed would be $6138.74) — the budget does not reset on restart
+Oct 10 14:51:19 ip-172-26-8-199 python[772815]: 14:51:19 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $6388.74 -> floor $18069.54
+Oct 10 14:51:20 ip-172-26-8-199 python[772815]: 14:51:20 INFO    __main__ | no oriented markets this cycle
+Oct 10 15:06:20 ip-172-26-8-199 python[772815]: 15:06:20 INFO    chasebot.attention_bias.live | keeping the stored floor $18069.54 (computed would be $6138.74) — the budget does not reset on restart
+Oct 10 15:06:20 ip-172-26-8-199 python[772815]: 15:06:20 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $6388.74 -> floor $18069.54
+Oct 10 15:06:21 ip-172-26-8-199 python[772815]: 15:06:21 INFO    __main__ | no oriented markets this cycle
+Oct 10 15:21:21 ip-172-26-8-199 python[772815]: 15:21:21 INFO    chasebot.attention_bias.live | keeping the stored floor $18069.54 (computed would be $6138.74) — the budget does not reset on restart
+Oct 10 15:21:21 ip-172-26-8-199 python[772815]: 15:21:21 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $6388.74 -> floor $18069.54
+Oct 10 15:21:21 ip-172-26-8-199 python[772815]: 15:21:21 INFO    __main__ | no oriented markets this cycle
+Oct 10 15:36:21 ip-172-26-8-199 python[772815]: 15:36:21 INFO    chasebot.attention_bias.live | keeping the stored floor $18069.54 (computed would be $6138.74) — the budget does not reset on restart
+Oct 10 15:36:21 ip-172-26-8-199 python[772815]: 15:36:21 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $6388.74 -> floor $18069.54
+Oct 10 15:36:22 ip-172-26-8-199 python[772815]: 15:36:22 INFO    __main__ | no oriented markets this cycle
+Oct 10 15:51:22 ip-172-26-8-199 python[772815]: 15:51:22 INFO    chasebot.attention_bias.live | keeping the stored floor $18069.54 (computed would be $6138.74) — the budget does not reset on restart
+Oct 10 15:51:22 ip-172-26-8-199 python[772815]: 15:51:22 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $6388.74 -> floor $18069.54
+Oct 10 15:51:23 ip-172-26-8-199 python[772815]: 15:51:23 INFO    __main__ | no oriented markets this cycle
+Oct 10 16:06:23 ip-172-26-8-199 python[772815]: 16:06:23 INFO    chasebot.attention_bias.live | keeping the stored floor $18069.54 (computed would be $6138.74) — the budget does not reset on restart
+Oct 10 16:06:23 ip-172-26-8-199 python[772815]: 16:06:23 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $6388.74 -> floor $18069.54
+Oct 10 16:06:24 ip-172-26-8-199 python[772815]: 16:06:24 INFO    __main__ | no oriented markets this cycle

@@ -1,0 +1,31 @@
+active
+● chasebot-v2.service - Chasebot v2 Attention Bias live runner (REAL MONEY, $250 budget)
+     Loaded: loaded (/etc/systemd/system/chasebot-v2.service; enabled; preset: enabled)
+     Active: active (running) since Wed 2026-09-30 06:03:40 UTC; 1 week 3 days ago
+   Main PID: 772815 (python)
+      Tasks: 1 (limit: 1741)
+     Memory: 75.3M (peak: 86.4M)
+        CPU: 1min 12.984s
+     CGroup: /system.slice/chasebot-v2.service
+             └─772815 /opt/chasebot/venv/bin/python -m chasebot.attention_bias.trade --loop --interval 900
+
+Oct 10 15:21:21 ip-172-26-8-199 python[772815]: 15:21:21 INFO    httpx | HTTP Request: GET https://api.polymarket.us/v1/account/balances "HTTP/1.1 200 OK"
+Oct 10 15:21:21 ip-172-26-8-199 python[772815]: 15:21:21 INFO    chasebot.attention_bias.live | keeping the stored floor $18069.54 (computed would be $6138.74) — the budget does not reset on restart
+Oct 10 15:21:21 ip-172-26-8-199 python[772815]: 15:21:21 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $6388.74 -> floor $18069.54
+Oct 10 15:21:21 ip-172-26-8-199 python[772815]: 15:21:21 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets?active=true&closed=false&limit=300&orderBy=volume&orderDirection=desc "HTTP/1.1 200 OK"
+Oct 10 15:21:21 ip-172-26-8-199 python[772815]: 15:21:21 INFO    __main__ | no oriented markets this cycle
+Oct 10 15:36:21 ip-172-26-8-199 python[772815]: 15:36:21 INFO    httpx | HTTP Request: GET https://api.polymarket.us/v1/account/balances "HTTP/1.1 200 OK"
+Oct 10 15:36:21 ip-172-26-8-199 python[772815]: 15:36:21 INFO    chasebot.attention_bias.live | keeping the stored floor $18069.54 (computed would be $6138.74) — the budget does not reset on restart
+Oct 10 15:36:21 ip-172-26-8-199 python[772815]: 15:36:21 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $6388.74 -> floor $18069.54
+Oct 10 15:36:22 ip-172-26-8-199 python[772815]: 15:36:22 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets?active=true&closed=false&limit=300&orderBy=volume&orderDirection=desc "HTTP/1.1 200 OK"
+Oct 10 15:36:22 ip-172-26-8-199 python[772815]: 15:36:22 INFO    __main__ | no oriented markets this cycle
+Oct 10 15:51:22 ip-172-26-8-199 python[772815]: 15:51:22 INFO    httpx | HTTP Request: GET https://api.polymarket.us/v1/account/balances "HTTP/1.1 200 OK"
+Oct 10 15:51:22 ip-172-26-8-199 python[772815]: 15:51:22 INFO    chasebot.attention_bias.live | keeping the stored floor $18069.54 (computed would be $6138.74) — the budget does not reset on restart
+Oct 10 15:51:22 ip-172-26-8-199 python[772815]: 15:51:22 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $6388.74 -> floor $18069.54
+Oct 10 15:51:23 ip-172-26-8-199 python[772815]: 15:51:23 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets?active=true&closed=false&limit=300&orderBy=volume&orderDirection=desc "HTTP/1.1 200 OK"
+Oct 10 15:51:23 ip-172-26-8-199 python[772815]: 15:51:23 INFO    __main__ | no oriented markets this cycle
+Oct 10 16:06:23 ip-172-26-8-199 python[772815]: 16:06:23 INFO    httpx | HTTP Request: GET https://api.polymarket.us/v1/account/balances "HTTP/1.1 200 OK"
+Oct 10 16:06:23 ip-172-26-8-199 python[772815]: 16:06:23 INFO    chasebot.attention_bias.live | keeping the stored floor $18069.54 (computed would be $6138.74) — the budget does not reset on restart
+Oct 10 16:06:23 ip-172-26-8-199 python[772815]: 16:06:23 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $6388.74 -> floor $18069.54
+Oct 10 16:06:24 ip-172-26-8-199 python[772815]: 16:06:24 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets?active=true&closed=false&limit=300&orderBy=volume&orderDirection=desc "HTTP/1.1 200 OK"
+Oct 10 16:06:24 ip-172-26-8-199 python[772815]: 16:06:24 INFO    __main__ | no oriented markets this cycle
