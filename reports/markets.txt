@@ -1,0 +1,19 @@
+=== EXCHANGE INVENTORY — active markets by sport (observation only) ===
+  36 markets across 7 sports
+    cfb        16 markets  [NOT TRADED]
+             e.g. aec-cfb-dxst-calpol-2026-10-24, aec-cfb-webst-monst-2026-10-24, aec-cfb-miss-tx-2026-10-24
+    nfl        13 markets  [NOT TRADED]
+             e.g. aec-nfl-kc-sea-2026-10-25, aec-nfl-cin-bal-2026-10-25, aec-nfl-sf-atl-2026-10-25
+    ufc         3 markets  [NOT TRADED]
+             e.g. aec-ufc-alevol-movevl-2026-10-24, aec-ufc-petyan-merdva-2026-10-24, aec-ufc-alexvol-rizkun-2026-10-24
+    boxing      1 markets  [NOT TRADED]
+             e.g. aec-boxing-canalv-chrmbi-2026-10-31-canalv-chrmbi
+    nba         1 markets  [NOT TRADED]
+             e.g. aec-nba-was-chi-2026-10-24
+    mlb         1 markets  [traded]
+             e.g. aec-mlb-tb-mil-2026-10-24
+    atp         1 markets  [NOT TRADED]
+             e.g. aec-atp-flacob-lormus-2026-10-24
+  no volume field found on these markets — liquidity is NOT reported here, not zero.
+  fields present: active, archived, assetPriceTerms, bestAskQuote, bestBidQuote, category, closed, color, comboEnabled, createdAt, darkColor, description, endDate, ep3Status, ep3SyncedAt, feeCoefficient, gameStartTime, hidden, id, image, imageDisplayType, line, manualActivation, marketSides, marketType, metadata, minimumTradeQty, orderPriceMinTickSize, outcomePrices, outcomes, politics, question, slug, sortOrder, sportsMarketType, sportsMarketTypeV2, spreadTotalSuffix, startDate, status, subtitle, tags, title, titleShort, updatedAt
+  listed but no strategy reads them: cfb, nfl, ufc, boxing, nba, atp

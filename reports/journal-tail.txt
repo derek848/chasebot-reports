@@ -1,0 +1,86 @@
+Oct 24 09:59:55 ip-172-26-8-199 python[1107313]: 09:59:55 INFO    chasebot.attention_bias.live | keeping the stored floor $89458.35 (computed would be $500.00) — the budget does not reset on restart
+Oct 24 09:59:55 ip-172-26-8-199 python[1107313]: 09:59:55 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.41 -> floor $89458.35
+Oct 24 09:59:55 ip-172-26-8-199 python[1107313]: 09:59:55 INFO    __main__ | no oriented markets this cycle
+Oct 24 10:14:56 ip-172-26-8-199 python[1107313]: 10:14:56 INFO    chasebot.attention_bias.live | keeping the stored floor $89458.35 (computed would be $500.00) — the budget does not reset on restart
+Oct 24 10:14:56 ip-172-26-8-199 python[1107313]: 10:14:56 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.41 -> floor $89458.35
+Oct 24 10:14:56 ip-172-26-8-199 python[1107313]: 10:14:56 INFO    __main__ | no oriented markets this cycle
+Oct 24 10:29:56 ip-172-26-8-199 python[1107313]: 10:29:56 INFO    chasebot.attention_bias.live | keeping the stored floor $89458.35 (computed would be $500.00) — the budget does not reset on restart
+Oct 24 10:29:56 ip-172-26-8-199 python[1107313]: 10:29:56 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.41 -> floor $89458.35
+Oct 24 10:29:57 ip-172-26-8-199 python[1107313]: 10:29:57 INFO    __main__ | no oriented markets this cycle
+Oct 24 10:44:57 ip-172-26-8-199 python[1107313]: 10:44:57 INFO    chasebot.attention_bias.live | keeping the stored floor $89458.35 (computed would be $500.00) — the budget does not reset on restart
+Oct 24 10:44:57 ip-172-26-8-199 python[1107313]: 10:44:57 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.41 -> floor $89458.35
+Oct 24 10:44:57 ip-172-26-8-199 python[1107313]: 10:44:57 INFO    __main__ | no oriented markets this cycle
+Oct 24 10:59:57 ip-172-26-8-199 python[1107313]: 10:59:57 INFO    chasebot.attention_bias.live | keeping the stored floor $89458.35 (computed would be $500.00) — the budget does not reset on restart
+Oct 24 10:59:57 ip-172-26-8-199 python[1107313]: 10:59:57 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.41 -> floor $89458.35
+Oct 24 10:59:58 ip-172-26-8-199 python[1107313]: 10:59:58 INFO    __main__ | no oriented markets this cycle
+Oct 24 11:14:58 ip-172-26-8-199 python[1107313]: 11:14:58 INFO    chasebot.attention_bias.live | keeping the stored floor $89458.35 (computed would be $500.00) — the budget does not reset on restart
+Oct 24 11:14:58 ip-172-26-8-199 python[1107313]: 11:14:58 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.41 -> floor $89458.35
+Oct 24 11:14:59 ip-172-26-8-199 python[1107313]: 11:14:59 INFO    __main__ | no oriented markets this cycle
+Oct 24 11:29:59 ip-172-26-8-199 python[1107313]: 11:29:59 INFO    chasebot.attention_bias.live | keeping the stored floor $89458.35 (computed would be $500.00) — the budget does not reset on restart
+Oct 24 11:29:59 ip-172-26-8-199 python[1107313]: 11:29:59 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.41 -> floor $89458.35
+Oct 24 11:30:00 ip-172-26-8-199 python[1107313]: 11:30:00 INFO    __main__ | no oriented markets this cycle
+Oct 24 11:45:00 ip-172-26-8-199 python[1107313]: 11:45:00 INFO    chasebot.attention_bias.live | keeping the stored floor $89458.35 (computed would be $500.00) — the budget does not reset on restart
+Oct 24 11:45:00 ip-172-26-8-199 python[1107313]: 11:45:00 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.41 -> floor $89458.35
+Oct 24 11:45:00 ip-172-26-8-199 python[1107313]: 11:45:00 INFO    __main__ | no oriented markets this cycle
+Oct 24 12:00:00 ip-172-26-8-199 python[1107313]: 12:00:00 INFO    chasebot.attention_bias.live | keeping the stored floor $89458.35 (computed would be $500.00) — the budget does not reset on restart
+Oct 24 12:00:00 ip-172-26-8-199 python[1107313]: 12:00:00 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.41 -> floor $89458.35
+Oct 24 12:00:01 ip-172-26-8-199 python[1107313]: 12:00:01 INFO    __main__ | no oriented markets this cycle
+Oct 24 12:15:01 ip-172-26-8-199 python[1107313]: 12:15:01 INFO    chasebot.attention_bias.live | keeping the stored floor $89458.35 (computed would be $500.00) — the budget does not reset on restart
+Oct 24 12:15:01 ip-172-26-8-199 python[1107313]: 12:15:01 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.41 -> floor $89458.35
+Oct 24 12:15:02 ip-172-26-8-199 python[1107313]: 12:15:02 INFO    __main__ | no oriented markets this cycle
+Oct 24 12:30:02 ip-172-26-8-199 python[1107313]: 12:30:02 INFO    chasebot.attention_bias.live | keeping the stored floor $89458.35 (computed would be $500.00) — the budget does not reset on restart
+Oct 24 12:30:02 ip-172-26-8-199 python[1107313]: 12:30:02 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.41 -> floor $89458.35
+Oct 24 12:30:03 ip-172-26-8-199 python[1107313]: 12:30:03 INFO    __main__ | no oriented markets this cycle
+Oct 24 12:45:03 ip-172-26-8-199 python[1107313]: 12:45:03 INFO    chasebot.attention_bias.live | keeping the stored floor $89458.35 (computed would be $500.00) — the budget does not reset on restart
+Oct 24 12:45:03 ip-172-26-8-199 python[1107313]: 12:45:03 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.41 -> floor $89458.35
+Oct 24 12:45:04 ip-172-26-8-199 python[1107313]: 12:45:04 INFO    __main__ | no oriented markets this cycle
+Oct 24 13:00:04 ip-172-26-8-199 python[1107313]: 13:00:04 INFO    chasebot.attention_bias.live | keeping the stored floor $89458.35 (computed would be $500.00) — the budget does not reset on restart
+Oct 24 13:00:04 ip-172-26-8-199 python[1107313]: 13:00:04 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.41 -> floor $89458.35
+Oct 24 13:00:04 ip-172-26-8-199 python[1107313]: 13:00:04 INFO    __main__ | no oriented markets this cycle
+Oct 24 13:15:04 ip-172-26-8-199 python[1107313]: 13:15:04 INFO    chasebot.attention_bias.live | keeping the stored floor $89458.35 (computed would be $500.00) — the budget does not reset on restart
+Oct 24 13:15:04 ip-172-26-8-199 python[1107313]: 13:15:04 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.41 -> floor $89458.35
+Oct 24 13:15:05 ip-172-26-8-199 python[1107313]: 13:15:05 INFO    __main__ | no oriented markets this cycle
+Oct 24 13:30:05 ip-172-26-8-199 python[1107313]: 13:30:05 INFO    chasebot.attention_bias.live | keeping the stored floor $89458.35 (computed would be $500.00) — the budget does not reset on restart
+Oct 24 13:30:05 ip-172-26-8-199 python[1107313]: 13:30:05 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.41 -> floor $89458.35
+Oct 24 13:30:06 ip-172-26-8-199 python[1107313]: 13:30:06 INFO    __main__ | no oriented markets this cycle
+Oct 24 13:45:06 ip-172-26-8-199 python[1107313]: 13:45:06 INFO    chasebot.attention_bias.live | keeping the stored floor $89458.35 (computed would be $500.00) — the budget does not reset on restart
+Oct 24 13:45:06 ip-172-26-8-199 python[1107313]: 13:45:06 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.41 -> floor $89458.35
+Oct 24 13:45:07 ip-172-26-8-199 python[1107313]: 13:45:07 INFO    __main__ | no oriented markets this cycle
+Oct 24 14:00:07 ip-172-26-8-199 python[1107313]: 14:00:07 INFO    chasebot.attention_bias.live | keeping the stored floor $89458.35 (computed would be $500.00) — the budget does not reset on restart
+Oct 24 14:00:07 ip-172-26-8-199 python[1107313]: 14:00:07 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.41 -> floor $89458.35
+Oct 24 14:00:08 ip-172-26-8-199 python[1107313]: 14:00:08 INFO    __main__ | no oriented markets this cycle
+Oct 24 14:15:08 ip-172-26-8-199 python[1107313]: 14:15:08 INFO    chasebot.attention_bias.live | keeping the stored floor $89458.35 (computed would be $500.00) — the budget does not reset on restart
+Oct 24 14:15:08 ip-172-26-8-199 python[1107313]: 14:15:08 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.41 -> floor $89458.35
+Oct 24 14:15:09 ip-172-26-8-199 python[1107313]: 14:15:09 WARNING __main__ | recent games failed for 139: 'score'
+Oct 24 14:15:09 ip-172-26-8-199 python[1107313]: 14:15:09 INFO    __main__ | [AB] broadcast aec-mlb-tb-mil-2026-10-24 2026-10-24 | Milwaukee Brewers vs Tampa Bay Rays -> national (1 national on date)
+Oct 24 14:15:09 ip-172-26-8-199 python[1107313]: 14:15:09 INFO    __main__ | [AB] cycle: 1 markets, 0 entered, 0 exited
+Oct 24 14:30:09 ip-172-26-8-199 python[1107313]: 14:30:09 INFO    chasebot.attention_bias.live | keeping the stored floor $89458.35 (computed would be $500.00) — the budget does not reset on restart
+Oct 24 14:30:09 ip-172-26-8-199 python[1107313]: 14:30:09 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.41 -> floor $89458.35
+Oct 24 14:30:10 ip-172-26-8-199 python[1107313]: 14:30:10 WARNING __main__ | recent games failed for 139: 'score'
+Oct 24 14:30:10 ip-172-26-8-199 python[1107313]: 14:30:10 INFO    __main__ | [AB] broadcast aec-mlb-tb-mil-2026-10-24 2026-10-24 | Milwaukee Brewers vs Tampa Bay Rays -> national (1 national on date)
+Oct 24 14:30:10 ip-172-26-8-199 python[1107313]: 14:30:10 INFO    __main__ | [AB] cycle: 1 markets, 0 entered, 0 exited
+Oct 24 14:45:10 ip-172-26-8-199 python[1107313]: 14:45:10 INFO    chasebot.attention_bias.live | keeping the stored floor $89458.35 (computed would be $500.00) — the budget does not reset on restart
+Oct 24 14:45:10 ip-172-26-8-199 python[1107313]: 14:45:10 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.41 -> floor $89458.35
+Oct 24 14:45:11 ip-172-26-8-199 python[1107313]: 14:45:11 WARNING __main__ | recent games failed for 139: 'score'
+Oct 24 14:45:11 ip-172-26-8-199 python[1107313]: 14:45:11 INFO    __main__ | [AB] broadcast aec-mlb-tb-mil-2026-10-24 2026-10-24 | Milwaukee Brewers vs Tampa Bay Rays -> national (1 national on date)
+Oct 24 14:45:11 ip-172-26-8-199 python[1107313]: 14:45:11 INFO    __main__ | [AB] cycle: 1 markets, 0 entered, 0 exited
+Oct 24 15:00:11 ip-172-26-8-199 python[1107313]: 15:00:11 INFO    chasebot.attention_bias.live | keeping the stored floor $89458.35 (computed would be $500.00) — the budget does not reset on restart
+Oct 24 15:00:11 ip-172-26-8-199 python[1107313]: 15:00:11 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.41 -> floor $89458.35
+Oct 24 15:00:12 ip-172-26-8-199 python[1107313]: 15:00:12 WARNING __main__ | recent games failed for 139: 'score'
+Oct 24 15:00:12 ip-172-26-8-199 python[1107313]: 15:00:12 INFO    __main__ | [AB] broadcast aec-mlb-tb-mil-2026-10-24 2026-10-24 | Milwaukee Brewers vs Tampa Bay Rays -> national (1 national on date)
+Oct 24 15:00:12 ip-172-26-8-199 python[1107313]: 15:00:12 INFO    __main__ | [AB] cycle: 1 markets, 0 entered, 0 exited
+Oct 24 15:15:12 ip-172-26-8-199 python[1107313]: 15:15:12 INFO    chasebot.attention_bias.live | keeping the stored floor $89458.35 (computed would be $500.00) — the budget does not reset on restart
+Oct 24 15:15:12 ip-172-26-8-199 python[1107313]: 15:15:12 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.41 -> floor $89458.35
+Oct 24 15:15:13 ip-172-26-8-199 python[1107313]: 15:15:13 WARNING __main__ | recent games failed for 139: 'score'
+Oct 24 15:15:13 ip-172-26-8-199 python[1107313]: 15:15:13 INFO    __main__ | [AB] broadcast aec-mlb-tb-mil-2026-10-24 2026-10-24 | Milwaukee Brewers vs Tampa Bay Rays -> national (1 national on date)
+Oct 24 15:15:13 ip-172-26-8-199 python[1107313]: 15:15:13 INFO    __main__ | [AB] cycle: 1 markets, 0 entered, 0 exited
+Oct 24 15:30:13 ip-172-26-8-199 python[1107313]: 15:30:13 INFO    chasebot.attention_bias.live | keeping the stored floor $89458.35 (computed would be $500.00) — the budget does not reset on restart
+Oct 24 15:30:13 ip-172-26-8-199 python[1107313]: 15:30:13 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.41 -> floor $89458.35
+Oct 24 15:30:14 ip-172-26-8-199 python[1107313]: 15:30:14 WARNING __main__ | recent games failed for 139: 'score'
+Oct 24 15:30:14 ip-172-26-8-199 python[1107313]: 15:30:14 INFO    __main__ | [AB] broadcast aec-mlb-tb-mil-2026-10-24 2026-10-24 | Milwaukee Brewers vs Tampa Bay Rays -> national (1 national on date)
+Oct 24 15:30:14 ip-172-26-8-199 python[1107313]: 15:30:14 INFO    __main__ | [AB] cycle: 1 markets, 0 entered, 0 exited
+Oct 24 15:45:14 ip-172-26-8-199 python[1107313]: 15:45:14 INFO    chasebot.attention_bias.live | keeping the stored floor $89458.35 (computed would be $500.00) — the budget does not reset on restart
+Oct 24 15:45:14 ip-172-26-8-199 python[1107313]: 15:45:14 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.41 -> floor $89458.35
+Oct 24 15:45:16 ip-172-26-8-199 python[1107313]: 15:45:16 WARNING __main__ | recent games failed for 139: 'score'
+Oct 24 15:45:16 ip-172-26-8-199 python[1107313]: 15:45:16 INFO    __main__ | [AB] broadcast aec-mlb-tb-mil-2026-10-24 2026-10-24 | Milwaukee Brewers vs Tampa Bay Rays -> national (1 national on date)
+Oct 24 15:45:16 ip-172-26-8-199 python[1107313]: 15:45:16 INFO    __main__ | [AB] cycle: 1 markets, 0 entered, 0 exited

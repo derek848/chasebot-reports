@@ -1,0 +1,31 @@
+active
+● chasebot-v2.service - Chasebot v2 Attention Bias live runner (REAL MONEY, $250 budget)
+     Loaded: loaded (/etc/systemd/system/chasebot-v2.service; enabled; preset: enabled)
+     Active: active (running) since Fri 2026-10-23 06:42:59 UTC; 1 day 9h ago
+   Main PID: 1107313 (python)
+      Tasks: 1 (limit: 1741)
+     Memory: 76.2M (peak: 76.7M)
+        CPU: 9.179s
+     CGroup: /system.slice/chasebot-v2.service
+             └─1107313 /opt/chasebot/venv/bin/python -m chasebot.attention_bias.trade --loop --interval 900
+
+Oct 24 15:15:13 ip-172-26-8-199 python[1107313]: 15:15:13 INFO    __main__ | [AB] broadcast aec-mlb-tb-mil-2026-10-24 2026-10-24 | Milwaukee Brewers vs Tampa Bay Rays -> national (1 national on date)
+Oct 24 15:15:13 ip-172-26-8-199 python[1107313]: 15:15:13 INFO    __main__ | [AB] cycle: 1 markets, 0 entered, 0 exited
+Oct 24 15:30:13 ip-172-26-8-199 python[1107313]: 15:30:13 INFO    httpx | HTTP Request: GET https://api.polymarket.us/v1/account/balances "HTTP/1.1 200 OK"
+Oct 24 15:30:13 ip-172-26-8-199 python[1107313]: 15:30:13 INFO    chasebot.attention_bias.live | keeping the stored floor $89458.35 (computed would be $500.00) — the budget does not reset on restart
+Oct 24 15:30:13 ip-172-26-8-199 python[1107313]: 15:30:13 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.41 -> floor $89458.35
+Oct 24 15:30:14 ip-172-26-8-199 python[1107313]: 15:30:14 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets?active=true&closed=false&limit=300&orderBy=volume&orderDirection=desc "HTTP/1.1 200 OK"
+Oct 24 15:30:14 ip-172-26-8-199 python[1107313]: 15:30:14 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-tb-mil-2026-10-24/book "HTTP/1.1 200 OK"
+Oct 24 15:30:14 ip-172-26-8-199 python[1107313]: 15:30:14 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-tb-mil-2026-10-24/book "HTTP/1.1 200 OK"
+Oct 24 15:30:14 ip-172-26-8-199 python[1107313]: 15:30:14 WARNING __main__ | recent games failed for 139: 'score'
+Oct 24 15:30:14 ip-172-26-8-199 python[1107313]: 15:30:14 INFO    __main__ | [AB] broadcast aec-mlb-tb-mil-2026-10-24 2026-10-24 | Milwaukee Brewers vs Tampa Bay Rays -> national (1 national on date)
+Oct 24 15:30:14 ip-172-26-8-199 python[1107313]: 15:30:14 INFO    __main__ | [AB] cycle: 1 markets, 0 entered, 0 exited
+Oct 24 15:45:14 ip-172-26-8-199 python[1107313]: 15:45:14 INFO    httpx | HTTP Request: GET https://api.polymarket.us/v1/account/balances "HTTP/1.1 200 OK"
+Oct 24 15:45:14 ip-172-26-8-199 python[1107313]: 15:45:14 INFO    chasebot.attention_bias.live | keeping the stored floor $89458.35 (computed would be $500.00) — the budget does not reset on restart
+Oct 24 15:45:14 ip-172-26-8-199 python[1107313]: 15:45:14 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $0.41 -> floor $89458.35
+Oct 24 15:45:15 ip-172-26-8-199 python[1107313]: 15:45:15 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets?active=true&closed=false&limit=300&orderBy=volume&orderDirection=desc "HTTP/1.1 200 OK"
+Oct 24 15:45:16 ip-172-26-8-199 python[1107313]: 15:45:16 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-tb-mil-2026-10-24/book "HTTP/1.1 200 OK"
+Oct 24 15:45:16 ip-172-26-8-199 python[1107313]: 15:45:16 INFO    httpx | HTTP Request: GET https://gateway.polymarket.us/v1/markets/aec-mlb-tb-mil-2026-10-24/book "HTTP/1.1 200 OK"
+Oct 24 15:45:16 ip-172-26-8-199 python[1107313]: 15:45:16 WARNING __main__ | recent games failed for 139: 'score'
+Oct 24 15:45:16 ip-172-26-8-199 python[1107313]: 15:45:16 INFO    __main__ | [AB] broadcast aec-mlb-tb-mil-2026-10-24 2026-10-24 | Milwaukee Brewers vs Tampa Bay Rays -> national (1 national on date)
+Oct 24 15:45:16 ip-172-26-8-199 python[1107313]: 15:45:16 INFO    __main__ | [AB] cycle: 1 markets, 0 entered, 0 exited
