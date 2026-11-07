@@ -1,0 +1,40 @@
+ESPN RSS did not parse: no element found: line 1, column 0
+attention_bias field-path verification — no orders, no exchange calls
+
+statsapi /schedule + hydrate=broadcasts(all)  [national_broadcast]
+  PASS  fetch  — https://statsapi.mlb.com/api/v1/schedule?sportId=1&date=2026-11-07&hydrate=broadcasts(all)
+  FAIL  gamePk + team names
+          no games parsed; payload shape: {'copyright': 'str', 'totalItems': 'int', 'totalEvents': 'int', 'totalGames': 'int', 'totalGamesInProgress': 'int', 'dates': ['<list of 0>']}
+
+statsapi /schedule by team  [recent form / streaks]
+  FAIL  get_recent_games
+          only 1 games parsed — expected ~25. The date range or the dates[].games[] shape may not match.
+
+ESPN news  [media narrative]
+  PASS  fetch via google-news  — 25 articles
+  PASS  team tagging  — Chicago White Sox=2, Baltimore Orioles=2, Detroit Tigers=2
+  PASS  sentiment  — [('Next step for White Sox: Build on high energy fr', 0.0), ('Five under-the-radar MLB free agents who could m', 0.0), ('Mets Sign Robert Stock To Major League Contract', 0.0), ('5 questions for the World Series champion Brewer', 0.0), ("Agents finding common ground in response to MLB'", 0.0)]
+
+statsapi /sports/1/players  [player -> club tagging]
+  PASS  load  — 830 names across 30 clubs (cache 12h old)
+  PASS  club names match MLB_CLUBS
+  PASS  ambiguous names dropped  — 34, e.g. alexander, anderson, black, cruz, diaz, garcia
+
+today's slate x media score  [does the join produce anything?]
+  FAIL  slate
+          no teams scheduled today — nothing to join against
+
+media source reachability  [ESPN replacement candidates]
+  PASS  statsapi editorial  — HTTP 200, 262+ bytes
+  PASS  mlb.com news RSS  — HTTP 200, 4096+ bytes
+  PASS  google news RSS  — HTTP 200, 4096+ bytes
+  PASS  espn (current)  — HTTP 200, 2416+ bytes
+
+Wikipedia pageviews  [social_percentile]
+  PASS  fetch + parse  — Yankees 1,101,794 views over 12 months
+  PASS  league percentiles  — 30/30 clubs (cache 118h old); top: Los Angeles Dodgers, bottom: Athletics
+
+odds API: skipped (ODDS_API_KEY not set)
+
+13 passed, 3 failed
+Field paths above marked FAIL are wrong or the API changed. Nothing should be armed until they read PASS.

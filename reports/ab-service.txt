@@ -1,0 +1,31 @@
+active
+● chasebot-v2.service - Chasebot v2 Attention Bias live runner (REAL MONEY, $250 budget)
+     Loaded: loaded (/etc/systemd/system/chasebot-v2.service; enabled; preset: enabled)
+     Active: active (running) since Fri 2026-10-23 06:42:59 UTC; 2 weeks 1 day ago
+   Main PID: 1107313 (python)
+      Tasks: 1 (limit: 1741)
+     Memory: 58.7M (peak: 76.7M)
+        CPU: 41.159s
+     CGroup: /system.slice/chasebot-v2.service
+             └─1107313 /opt/chasebot/venv/bin/python -m chasebot.attention_bias.trade --loop --interval 900
+
+Nov 07 18:08:12 ip-172-26-8-199 python[1107313]: 18:08:12 INFO    httpx | HTTP Request: GET https://api.polymarket.us/v1/account/balances "HTTP/1.1 200 OK"
+Nov 07 18:08:12 ip-172-26-8-199 python[1107313]: 18:08:12 INFO    chasebot.attention_bias.live | keeping the stored floor $89458.35 (computed would be $500.00) — the budget does not reset on restart
+Nov 07 18:08:12 ip-172-26-8-199 python[1107313]: 18:08:12 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $22.15 -> floor $89458.35
+Nov 07 18:08:12 ip-172-26-8-199 python[1107313]: 18:08:12 INFO    __main__ | no oriented markets this cycle
+Nov 07 18:23:12 ip-172-26-8-199 python[1107313]: 18:23:12 INFO    httpx | HTTP Request: GET https://api.polymarket.us/v1/account/balances "HTTP/1.1 200 OK"
+Nov 07 18:23:12 ip-172-26-8-199 python[1107313]: 18:23:12 INFO    chasebot.attention_bias.live | keeping the stored floor $89458.35 (computed would be $500.00) — the budget does not reset on restart
+Nov 07 18:23:12 ip-172-26-8-199 python[1107313]: 18:23:12 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $22.15 -> floor $89458.35
+Nov 07 18:23:13 ip-172-26-8-199 python[1107313]: 18:23:13 INFO    __main__ | no oriented markets this cycle
+Nov 07 18:38:13 ip-172-26-8-199 python[1107313]: 18:38:13 INFO    httpx | HTTP Request: GET https://api.polymarket.us/v1/account/balances "HTTP/1.1 200 OK"
+Nov 07 18:38:13 ip-172-26-8-199 python[1107313]: 18:38:13 INFO    chasebot.attention_bias.live | keeping the stored floor $89458.35 (computed would be $500.00) — the budget does not reset on restart
+Nov 07 18:38:13 ip-172-26-8-199 python[1107313]: 18:38:13 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $22.15 -> floor $89458.35
+Nov 07 18:38:13 ip-172-26-8-199 python[1107313]: 18:38:13 INFO    __main__ | no oriented markets this cycle
+Nov 07 18:53:13 ip-172-26-8-199 python[1107313]: 18:53:13 INFO    httpx | HTTP Request: GET https://api.polymarket.us/v1/account/balances "HTTP/1.1 200 OK"
+Nov 07 18:53:13 ip-172-26-8-199 python[1107313]: 18:53:13 INFO    chasebot.attention_bias.live | keeping the stored floor $89458.35 (computed would be $500.00) — the budget does not reset on restart
+Nov 07 18:53:13 ip-172-26-8-199 python[1107313]: 18:53:13 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $22.15 -> floor $89458.35
+Nov 07 18:53:13 ip-172-26-8-199 python[1107313]: 18:53:13 INFO    __main__ | no oriented markets this cycle
+Nov 07 19:08:13 ip-172-26-8-199 python[1107313]: 19:08:13 INFO    httpx | HTTP Request: GET https://api.polymarket.us/v1/account/balances "HTTP/1.1 200 OK"
+Nov 07 19:08:13 ip-172-26-8-199 python[1107313]: 19:08:13 INFO    chasebot.attention_bias.live | keeping the stored floor $89458.35 (computed would be $500.00) — the budget does not reset on restart
+Nov 07 19:08:13 ip-172-26-8-199 python[1107313]: 19:08:13 INFO    chasebot.attention_bias.live | ATTENTION BIAS ARMED: budget $250, balance $22.15 -> floor $89458.35
+Nov 07 19:08:13 ip-172-26-8-199 python[1107313]: 19:08:13 INFO    __main__ | no oriented markets this cycle
