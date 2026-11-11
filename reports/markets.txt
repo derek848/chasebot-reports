@@ -1,0 +1,15 @@
+=== EXCHANGE INVENTORY — active markets by sport (observation only) ===
+  13 markets across 5 sports
+    nba         4 markets  [NOT TRADED]
+             e.g. aec-nba-orl-sac-2026-11-10, aec-nba-bos-phi-2026-11-10, aec-nba-mia-uta-2026-11-10
+    nhl         3 markets  [NOT TRADED]
+             e.g. aec-nhl-nas-la-2026-11-10, aec-nhl-col-tor-2026-11-10, aec-nhl-was-ott-2026-11-10
+    ufc         2 markets  [NOT TRADED]
+             e.g. aec-ufc-cirgan-joshok-2026-11-14, aec-ufc-bilhas-luigur-2026-11-14
+    cbb         2 markets  [NOT TRADED]
+             e.g. aec-cbb-fl-flst-2026-11-10, aec-cbb-duke-mst-2026-11-10
+    cfb         2 markets  [NOT TRADED]
+             e.g. aec-cfb-wmich-akron-2026-11-10, aec-cfb-ohio-miaoh-2026-11-10
+  no volume field found on these markets — liquidity is NOT reported here, not zero.
+  fields present: active, archived, assetPriceTerms, bestAskQuote, bestBidQuote, category, closed, color, comboEnabled, createdAt, darkColor, description, endDate, ep3Status, ep3SyncedAt, eventSubcategory, feeCoefficient, gameStartTime, hidden, id, image, imageDisplayType, line, manualActivation, marketSides, marketType, metadata, minimumTradeQty, orderPriceMinTickSize, outcomePrices, outcomes, politics, question, singlesRfqConfig, slug, sortOrder, sportsMarketType, sportsMarketTypeV2, spreadTotalSuffix, startDate, status, subtitle, tags, title, titleShort, updatedAt
+  listed but no strategy reads them: nba, nhl, ufc, cbb, cfb
